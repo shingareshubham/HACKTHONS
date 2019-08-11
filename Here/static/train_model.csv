@@ -1,0 +1,892 @@
+PassengerId,Survived,Months,Name,Sex,Seasone,Day,lat,long,weather
+1,0,3,"Braund, Mr. Owen Harris",male,Rainy,1,18.9385352,72.836334,S
+2,1,1,"Cumings, Mrs. John Bradley (Florence Briggs Thayer)",female,Summer,2,17.9385352,72.836334,C
+3,1,3,"Heikkinen, Miss. Laina",female,Summer,3,18.9385652,72.836334,S
+4,1,2,"Futrelle, Mrs. Jacques Heath (Lily May Peel)",female,Summer,4,19.9385352,72.836334,S
+5,0,3,"Allen, Mr. William Henry",male,Rainy,5,17.9385352,72.836334,S
+6,0,3,"Moran, Mr. James",male,Rainy,6,18.9385343,72.836334,Q
+7,0,3,"McCarthy, Mr. Timothy J",male,Rainy,7,18.6385352,72.836334,S
+8,0,3,"Palsson, Master. Gosta Leonard",male,Rainy,8,18.6315352,72.866334,S
+9,1,3,"Johnson, Mrs. Oscar W (Elisabeth Vilhelmina Berg)",female,Summer,9,18.9365352,73.836334,S
+10,1,4,"Nasser, Mrs. Nicholas (Adele Achem)",female,Summer,10,18.8385352,71.836334,C
+11,1,3,"Sandstrom, Miss. Marguerite Rut",female,Summer,11,16.9285352,72.836345,S
+12,1,5,"Bonnell, Miss. Elizabeth",female,Rainy,12,17.9385352,72.836345,S
+13,0,3,"Saundercock, Mr. William Henry",male,Rainy,13,18.9385352,72.836345,S
+14,0,3,"Andersson, Mr. Anders Johan",male,Rainy,14,13.9385352,72.836345,S
+15,0,3,"Vestrom, Miss. Hulda Amanda Adolfina",female,Rainy,15,18.9385362,72.836345,S
+16,1,6,"Hewlett, Mrs. (Mary D Kingcome) ",female,Summer,16,18.9385375,72.836345,S
+17,0,3,"Rice, Master. Eugene",male,Rainy,16,18.9385758,72.836345,Q
+18,1,7,"Williams, Mr. Charles Eugene",male,Summer,18,18.9385352,72.836323,S
+19,0,3,"Vander Planke, Mrs. Julius (Emelia Maria Vandemoortele)",female,Rainy,19,18.9385345,72.836345,S
+20,1,3,"Masselmani, Mrs. Fatima",female,Summer,20,18.9385352,72.836345,C
+21,0,7,"Fynney, Mr. Joseph J",male,Rainy,21,18.9385352,72.836345,S
+22,1,8,"Beesley, Mr. Lawrence",male,Summer,22,18.9385352,72.836345,S
+23,1,3,"McGowan, Miss. Anna ""Annie""",female,Summer,23,18.9385352,72.836345,Q
+24,1,9,"Sloper, Mr. William Thompson",male,Summer,24,18.9385352,72.836345,S
+25,0,3,"Palsson, Miss. Torborg Danira",female,Rainy,25,18.9385352,72.836345,S
+26,1,3,"Asplund, Mrs. Carl Oscar (Selma Augusta Emilia Johansson)",female,Summer,26,18.9385352,72.836345,S
+27,0,3,"Emir, Mr. Farred Chehab",male,Rainy,27,18.9385352,72.836345,C
+28,0,12,"Fortune, Mr. Charles Alexander",male,Rainy,28,18.9385352,72.836345,S
+29,1,3,"O'Dwyer, Miss. Ellen ""Nellie""",female,Summer,1,18.9385352,72.836345,Q
+30,0,3,"Todoroff, Mr. Lalio",male,Rainy,2,18.9385352,72.836345,S
+31,0,11,"Uruchurtu, Don. Manuel E",male,Rainy,3,18.9385352,72.836345,C
+32,1,2,"Spencer, Mrs. William Augustus (Marie Eugenie)",female,Summer,4,18.9385352,72.836345,C
+33,1,3,"Glynn, Miss. Mary Agatha",female,Summer,5,18.9385352,72.836345,Q
+34,0,3,"Wheadon, Mr. Edward H",male,Rainy,6,18.9385352,72.836345,S
+35,0,1,"Meyer, Mr. Edgar Joseph",male,Rainy,7,18.9385352,72.836345,C
+36,0,4,"Holverson, Mr. Alexander Oskar",male,Rainy,8,18.9385352,72.836345,S
+37,1,3,"Mamee, Mr. Hanna",male,Summer,9,18.9385352,72.836345,C
+38,0,3,"Cann, Mr. Ernest Charles",male,Rainy,10,18.9385352,72.836345,S
+39,0,3,"Vander Planke, Miss. Augusta Maria",female,Rainy,11,18.9385352,72.836345,S
+40,1,3,"Nicola-Yarred, Miss. Jamila",female,Summer,12,18.9385352,72.836345,C
+41,0,3,"Ahlin, Mrs. Johan (Johanna Persdotter Larsson)",female,Rainy,13,18.9385352,72.836345,S
+42,0,5,"Turpin, Mrs. William John Robert (Dorothy Ann Wonnacott)",female,Rainy,14,18.9385352,72.836345,S
+43,0,3,"Kraeff, Mr. Theodor",male,Rainy,15,18.9385352,72.836345,C
+44,1,6,"Laroche, Miss. Simonne Marie Anne Andree",female,Summer,16,18.9385352,72.836345,C
+45,1,3,"Devaney, Miss. Margaret Delia",female,Summer,16,18.9385352,72.836345,Q
+46,0,3,"Rogers, Mr. William John",male,Rainy,18,18.9385352,72.836345,S
+47,0,3,"Lennon, Mr. Denis",male,Rainy,19,18.9385352,72.836345,Q
+48,1,3,"O'Driscoll, Miss. Bridget",female,Summer,20,18.9385352,72.836345,Q
+49,0,3,"Samaan, Mr. Youssef",male,Rainy,21,18.9385352,72.836345,C
+50,0,3,"Arnold-Franchi, Mrs. Josef (Josefine Franchi)",female,Rainy,22,18.9385352,72.836345,S
+51,0,3,"Panula, Master. Juha Niilo",male,Rainy,23,18.9385352,72.836345,S
+52,0,3,"Nosworthy, Mr. Richard Cater",male,Rainy,24,18.9385352,72.836345,S
+53,1,7,"Harper, Mrs. Henry Sleeper (Myna Haxtun)",female,Summer,25,18.9385352,72.836345,C
+54,1,8,"Faunthorpe, Mrs. Lizzie (Elizabeth Anne Wilkinson)",female,Summer,26,18.9385352,72.836345,S
+55,0,7,"Ostby, Mr. Engelhart Cornelius",male,Rainy,27,18.9385352,72.836345,C
+56,1,6,"Woolner, Mr. Hugh",male,Summer,28,18.9385352,72.836345,S
+57,1,5,"Rugg, Miss. Emily",female,Summer,29,18.9385352,72.836345,S
+58,0,3,"Novel, Mr. Mansouer",male,Rainy,30,18.9385352,72.836345,C
+59,1,5,"West, Miss. Constance Mirium",female,Summer,1,18.9385352,72.836345,S
+60,0,3,"Goodwin, Master. William Frederick",male,Rainy,2,18.9385352,72.836345,S
+61,0,3,"Sirayanian, Mr. Orsen",male,Rainy,3,18.9385352,72.836345,C
+62,1,6,"Icard, Miss. Amelie",female,Summer,4,18.9385352,72.836345,
+63,0,7,"Harris, Mr. Henry Birkhardt",male,Rainy,5,18.9385352,72.836345,S
+64,0,3,"Skoog, Master. Harald",male,Rainy,6,18.9385352,72.836345,S
+65,0,8,"Stewart, Mr. Albert A",male,Rainy,7,18.9385352,72.836345,C
+66,1,3,"Moubarek, Master. Gerios",male,Summer,8,18.9385352,72.836345,C
+67,1,9,"Nye, Mrs. (Elizabeth Ramell)",female,Summer,9,18.9385352,72.836345,S
+68,0,3,"Crease, Mr. Ernest James",male,Rainy,10,18.9385352,72.836345,S
+69,1,3,"Andersson, Miss. Erna Alexandra",female,Summer,11,18.9385352,72.836345,S
+70,0,3,"Kink, Mr. Vincenz",male,Rainy,12,18.9385352,72.836345,S
+71,0,1,"Jenkin, Mr. Stephen Curnow",male,Rainy,13,18.9385352,72.836345,S
+72,0,3,"Goodwin, Miss. Lillian Amy",female,Rainy,14,18.9385352,72.836345,S
+73,0,2,"Hood, Mr. Ambrose Jr",male,Rainy,15,18.9385352,72.836345,S
+74,0,3,"Chronopoulos, Mr. Apostolos",male,Rainy,16,18.9385352,72.836345,C
+75,1,3,"Bing, Mr. Lee",male,Summer,16,18.9385352,72.836345,S
+76,0,3,"Moen, Mr. Sigurd Hansen",male,Rainy,18,18.9385352,72.836345,S
+77,0,3,"Staneff, Mr. Ivan",male,Rainy,19,18.9385352,72.836345,S
+78,0,3,"Moutal, Mr. Rahamin Haim",male,Rainy,20,18.9385352,72.836345,S
+79,1,4,"Caldwell, Master. Alden Gates",male,Summer,21,18.9385352,72.836345,S
+80,1,3,"Dowdell, Miss. Elizabeth",female,Summer,22,18.9385352,72.836345,S
+81,0,3,"Waelens, Mr. Achille",male,Rainy,23,18.9385352,72.836345,S
+82,1,3,"Sheerlinck, Mr. Jan Baptist",male,Summer,24,18.9385352,72.836345,S
+83,1,3,"McDermott, Miss. Brigdet Delia",female,Summer,25,18.9385352,72.836345,Q
+84,0,5,"Carrau, Mr. Francisco M",male,Rainy,26,18.9385352,72.836345,S
+85,1,2,"Ilett, Miss. Bertha",female,Summer,27,18.9385352,72.836345,S
+86,1,3,"Backstrom, Mrs. Karl Alfred (Maria Mathilda Gustafsson)",female,Summer,28,18.9385352,72.836345,S
+87,0,3,"Ford, Mr. William Neal",male,Rainy,1,18.9385352,72.836345,S
+88,0,3,"Slocovski, Mr. Selman Francis",male,Rainy,2,18.9385352,72.836345,S
+89,1,6,"Fortune, Miss. Mabel Helen",female,Summer,3,18.9385352,72.836345,S
+90,0,3,"Celotti, Mr. Francesco",male,Rainy,4,18.9385352,72.836345,S
+91,0,3,"Christmann, Mr. Emil",male,Rainy,5,18.9385352,72.836345,S
+92,0,3,"Andreasson, Mr. Paul Edvin",male,Rainy,6,18.9385352,72.836345,S
+93,0,7,"Chaffee, Mr. Herbert Fuller",male,Rainy,7,18.9385352,72.836345,S
+94,0,3,"Dean, Mr. Bertram Frank",male,Rainy,8,18.9385352,72.836345,S
+95,0,3,"Coxon, Mr. Daniel",male,Rainy,9,18.9385352,72.836345,S
+96,0,3,"Shorney, Mr. Charles Joseph",male,Rainy,10,18.9385352,72.836345,S
+97,0,8,"Goldschmidt, Mr. George B",male,Rainy,11,18.9385352,72.836345,C
+98,1,9,"Greenfield, Mr. William Bertram",male,Summer,12,18.9385352,72.836345,C
+99,1,8,"Doling, Mrs. John T (Ada Julia Bone)",female,Summer,13,18.9385352,72.836345,S
+100,0,7,"Kantor, Mr. Sinai",male,Rainy,14,18.9385352,72.836345,S
+101,0,3,"Petranec, Miss. Matilda",female,Rainy,15,18.9385352,72.836345,S
+102,0,3,"Petroff, Mr. Pastcho (""Pentcho"")",male,Rainy,16,18.9385352,72.836345,S
+103,0,6,"White, Mr. Richard Frasar",male,Rainy,16,18.9385352,72.836345,S
+104,0,3,"Johansson, Mr. Gustaf Joel",male,Rainy,18,18.9385352,72.836345,S
+105,0,3,"Gustafsson, Mr. Anders Vilhelm",male,Rainy,19,18.9385352,72.836345,S
+106,0,3,"Mionoff, Mr. Stoytcho",male,Rainy,20,18.9385352,72.836345,S
+107,1,3,"Salkjelsvik, Miss. Anna Kristine",female,Summer,21,18.9385352,72.836345,S
+108,1,3,"Moss, Mr. Albert Johan",male,Summer,22,18.9385352,72.836345,S
+109,0,3,"Rekic, Mr. Tido",male,Rainy,23,18.9385352,72.836345,S
+110,1,3,"Moran, Miss. Bertha",female,Summer,24,18.9385352,72.836345,Q
+111,0,5,"Porter, Mr. Walter Chamberlain",male,Rainy,25,18.9385352,72.836345,S
+112,0,3,"Zabour, Miss. Hileni",female,Rainy,26,18.9385352,72.836345,C
+113,0,3,"Barton, Mr. David John",male,Rainy,27,18.9385352,72.836345,S
+114,0,3,"Jussila, Miss. Katriina",female,Rainy,28,18.9385352,72.836345,S
+115,0,3,"Attalah, Miss. Malake",female,Rainy,1,18.9385352,72.836345,C
+116,0,3,"Pekoniemi, Mr. Edvard",male,Rainy,2,18.9385352,72.836345,S
+117,0,3,"Connors, Mr. Patrick",male,Rainy,3,18.9385352,72.836345,Q
+118,0,4,"Turpin, Mr. William John Robert",male,Rainy,4,18.9385352,72.836345,S
+119,0,3,"Baxter, Mr. Quigg Edmond",male,Rainy,5,18.9385352,72.836345,C
+120,0,3,"Andersson, Miss. Ellis Anna Maria",female,Rainy,6,18.9385352,72.836345,S
+121,0,2,"Hickman, Mr. Stanley George",male,Rainy,7,18.9385352,72.836345,S
+122,0,3,"Moore, Mr. Leonard Charles",male,Rainy,8,18.9385352,72.836345,S
+123,0,4,"Nasser, Mr. Nicholas",male,Rainy,9,18.9385352,72.836345,C
+124,1,5,"Webber, Miss. Susan",female,Summer,10,18.9385352,72.836345,S
+125,0,6,"White, Mr. Percival Wayland",male,Rainy,11,18.9385352,72.836345,S
+126,1,3,"Nicola-Yarred, Master. Elias",male,Summer,12,18.9385352,72.836345,C
+127,0,3,"McMahon, Mr. Martin",male,Rainy,13,18.9385352,72.836345,Q
+128,1,3,"Madsen, Mr. Fridtjof Arne",male,Summer,14,18.9385352,72.836345,S
+129,1,3,"Peter, Miss. Anna",female,Summer,15,18.9385352,72.836345,C
+130,0,3,"Ekstrom, Mr. Johan",male,Rainy,16,18.9385352,72.836345,S
+131,0,3,"Drazenoic, Mr. Jozef",male,Rainy,16,18.9385352,72.836345,C
+132,0,3,"Coelho, Mr. Domingos Fernandeo",male,Rainy,18,18.9385352,72.836345,S
+133,0,3,"Robins, Mrs. Alexander A (Grace Charity Laury)",female,Winter,19,18.9385352,72.836345,S
+134,1,7,"Weisz, Mrs. Leopold (Mathilde Francoise Pede)",female,Summer,20,18.9385352,72.836345,S
+135,0,8,"Sobey, Mr. Samuel James Hayden",male,Rainy,21,18.9385352,72.836345,S
+136,0,9,"Richard, Mr. Emile",male,Rainy,22,18.9385352,72.836345,C
+137,1,6,"Newsom, Miss. Helen Monypeny",female,Summer,23,18.9385352,72.836345,S
+138,0,5,"Futrelle, Mr. Jacques Heath",male,Winter,24,18.9385352,72.836345,S
+139,0,3,"Osen, Mr. Olaf Elon",male,Rainy,25,18.9385352,72.836345,S
+140,0,4,"Giglio, Mr. Victor",male,Rainy,26,18.9385352,72.836345,C
+141,0,3,"Boulos, Mrs. Joseph (Sultana)",female,Rainy,27,18.9385352,72.836345,C
+142,1,3,"Nysten, Miss. Anna Sofia",female,Summer,28,18.9385352,72.836345,S
+143,1,3,"Hakkarainen, Mrs. Pekka Pietari (Elin Matilda Dolck)",female,Summer,1,18.9385352,72.836345,S
+144,0,3,"Burke, Mr. Jeremiah",male,Rainy,2,18.9385352,72.836345,Q
+145,0,3,"Andrew, Mr. Edgardo Samuel",male,Rainy,3,18.9385352,72.836345,S
+146,0,2,"Nicholls, Mr. Joseph Charles",male,Rainy,4,18.9385352,72.836345,S
+147,1,3,"Andersson, Mr. August Edvard (""Wennerstrom"")",male,Summer,5,18.9385352,72.836345,S
+148,0,3,"Ford, Miss. Robina Maggie ""Ruby""",female,Rainy,6,18.9385352,72.836345,S
+149,0,1,"Navratil, Mr. Michel (""Louis M Hoffman"")",male,Winter,7,18.9385352,72.836345,S
+150,0,1,"Byles, Rev. Thomas Roussel Davids",male,Winter,8,18.9385352,72.836345,S
+151,0,2,"Bateman, Rev. Robert James",male,Winter,9,18.9385352,72.836345,S
+152,1,1,"Pears, Mrs. Thomas (Edith Wearne)",female,Summer,10,18.9385352,72.836345,S
+153,0,3,"Meo, Mr. Alfonzo",male,Winter,11,18.9385352,72.836345,S
+154,0,3,"van Billiard, Mr. Austin Blyler",male,Winter,12,18.9385352,72.836345,S
+155,0,3,"Olsen, Mr. Ole Martin",male,Rainy,13,18.9385352,72.836345,S
+156,0,2,"Williams, Mr. Charles Duane",male,Winter,14,18.9385352,72.836345,C
+157,1,3,"Gilnagh, Miss. Katherine ""Katie""",female,Summer,15,18.9385352,72.836345,Q
+158,0,3,"Corn, Mr. Harry",male,Rainy,16,18.9385352,72.836345,S
+159,0,3,"Smiljanic, Mr. Mile",male,Rainy,16,18.9385352,72.836345,S
+160,0,3,"Sage, Master. Thomas Henry",male,Rainy,18,18.9385352,72.836345,S
+161,0,3,"Cribb, Mr. John Hatfield",male,Winter,19,18.9385352,72.836345,S
+162,1,12,"Watt, Mrs. James (Elizabeth ""Bessie"" Inglis Milne)",female,Summer,20,18.9385352,72.836345,S
+163,0,3,"Bengtsson, Mr. John Viktor",male,Rainy,21,18.9385352,72.836345,S
+164,0,3,"Calic, Mr. Jovo",male,Rainy,22,18.9385352,72.836345,S
+165,0,3,"Panula, Master. Eino Viljami",male,Rainy,23,18.9385352,72.836345,S
+166,1,3,"Goldsmith, Master. Frank John William ""Frankie""",male,Summer,24,18.9385352,72.836345,S
+167,1,1,"Chibnall, Mrs. (Edith Martha Bowerman)",female,Summer,25,18.9385352,72.836345,S
+168,0,3,"Skoog, Mrs. William (Anna Bernhardina Karlsson)",female,Winter,26,18.9385352,72.836345,S
+169,0,11,"Baumann, Mr. John D",male,Rainy,27,18.9385352,72.836345,S
+170,0,3,"Ling, Mr. Lee",male,Rainy,28,18.9385352,72.836345,S
+171,0,12,"Van der hoef, Mr. Wyckoff",male,Rainy,1,18.9385352,72.836345,S
+172,0,3,"Rice, Master. Arthur",male,Rainy,2,18.9385352,72.836345,Q
+173,1,3,"Johnson, Miss. Eleanor Ileen",female,Summer,3,18.9385352,72.836345,S
+174,0,3,"Sivola, Mr. Antti Wilhelm",male,Rainy,4,18.9385352,72.836345,S
+175,0,11,"Smith, Mr. James Clinch",male,Winter,5,18.9385352,72.836345,C
+176,0,3,"Klasen, Mr. Klas Albin",male,Rainy,6,18.9385352,72.836345,S
+177,0,3,"Lefebre, Master. Henry Forbes",male,Rainy,7,18.9385352,72.836345,S
+178,0,12,"Isham, Miss. Ann Elizabeth",female,Winter,8,18.9385352,72.836345,C
+179,0,3,"Hale, Mr. Reginald",male,Rainy,9,18.9385352,72.836345,S
+180,0,3,"Leonard, Mr. Lionel",male,Winter,10,18.9385352,72.836345,S
+181,0,3,"Sage, Miss. Constance Gladys",female,Rainy,11,18.9385352,72.836345,S
+182,0,4,"Pernot, Mr. Rene",male,Rainy,12,18.9385352,72.836345,C
+183,0,3,"Asplund, Master. Clarence Gustaf Hugo",male,Rainy,13,18.9385352,72.836345,S
+184,1,5,"Becker, Master. Richard F",male,Summer,14,18.9385352,72.836345,S
+185,1,3,"Kink-Heilmann, Miss. Luise Gretchen",female,Winter,15,18.9385352,72.836345,S
+186,0,6,"Rood, Mr. Hugh Roscoe",male,Rainy,16,18.9385352,72.836345,S
+187,1,3,"O'Brien, Mrs. Thomas (Johanna ""Hannah"" Godfrey)",female,Summer,16,18.9385352,72.836345,Q
+188,1,7,"Romaine, Mr. Charles Hallace (""Mr C Rolmane"")",male,Summer,18,18.9385352,72.836345,S
+189,0,3,"Bourke, Mr. John",male,Winter,19,18.9385352,72.836345,Q
+190,0,3,"Turcin, Mr. Stjepan",male,Winter,20,18.9385352,72.836345,S
+191,1,9,"Pinsky, Mrs. (Rosa)",female,Summer,21,18.9385352,72.836345,S
+192,0,8,"Carbines, Mr. William",male,Rainy,22,18.9385352,72.836345,S
+193,1,3,"Andersen-Jensen, Miss. Carla Christine Nielsine",female,Summer,23,18.9385352,72.836345,S
+194,1,7,"Navratil, Master. Michel M",male,Winter,24,18.9385352,72.836345,S
+195,1,6,"Brown, Mrs. James Joseph (Margaret Tobin)",female,Summer,25,18.9385352,72.836345,C
+196,1,5,"Lurette, Miss. Elise",female,Rainy,26,18.9385352,72.836345,C
+197,0,3,"Mernagh, Mr. Robert",male,Rainy,27,18.9385352,72.836345,Q
+198,0,3,"Olsen, Mr. Karl Siegwart Andreas",male,Winter,28,18.9385352,72.836345,S
+199,1,3,"Madigan, Miss. Margaret ""Maggie""",female,Summer,31,18.9385352,72.836345,Q
+200,0,4,"Yrois, Miss. Henriette (""Mrs Harbeck"")",female,Rainy,1,18.9385352,72.836345,S
+201,0,3,"Vande Walle, Mr. Nestor Cyriel",male,Rainy,2,18.9385352,72.836345,S
+202,0,3,"Sage, Mr. Frederick",male,Rainy,3,18.9385352,72.836345,S
+203,0,3,"Johanson, Mr. Jakob Alfred",male,Winter,4,18.9385352,72.836345,S
+204,0,3,"Youseff, Mr. Gerious",male,Winter,5,18.9385352,72.836345,C
+205,1,3,"Cohen, Mr. Gurshon ""Gus""",male,Summer,6,18.9385352,72.836345,S
+206,0,3,"Strom, Miss. Telma Matilda",female,Rainy,7,18.9385352,72.836345,S
+207,0,3,"Backstrom, Mr. Karl Alfred",male,Winter,8,18.9385352,72.836345,S
+208,1,3,"Albimona, Mr. Nassef Cassem",male,Summer,9,18.9385352,72.836345,C
+209,1,3,"Carr, Miss. Helen ""Ellen""",female,Winter,10,18.9385352,72.836345,Q
+210,1,3,"Blank, Mr. Henry",male,Summer,11,18.9385352,72.836345,C
+211,0,3,"Ali, Mr. Ahmed",male,Rainy,12,18.9385352,72.836345,S
+212,1,2,"Cameron, Miss. Clear Annie",female,Summer,13,18.9385352,72.836345,S
+213,0,3,"Perkin, Mr. John Henry",male,Rainy,14,18.9385352,72.836345,S
+214,0,3,"Givard, Mr. Hans Kristensen",male,Rainy,15,18.9385352,72.836345,S
+215,0,3,"Kiernan, Mr. Philip",male,Rainy,16,18.9385352,72.836345,Q
+216,1,4,"Newell, Miss. Madeleine",female,Summer,16,18.9385352,72.836345,C
+217,1,3,"Honkanen, Miss. Eliina",female,Summer,18,18.9385352,72.836345,S
+218,0,5,"Jacobsohn, Mr. Sidney Samuel",male,Winter,19,18.9385352,72.836345,S
+219,1,6,"Bazzani, Miss. Albina",female,Summer,20,18.9385352,72.836345,C
+220,0,7,"Harris, Mr. Walter",male,Rainy,21,18.9385352,72.836345,S
+221,1,3,"Sunderland, Mr. Victor Francis",male,Winter,22,18.9385352,72.836345,S
+222,0,1,"Bracken, Mr. James H",male,Rainy,23,18.9385352,72.836345,S
+223,0,11,"Green, Mr. George Henry",male,Winter,24,18.9385352,72.836345,S
+224,0,12,"Nenkoff, Mr. Christo",male,Rainy,25,18.9385352,72.836345,S
+225,1,11,"Hoyt, Mr. Frederick Maxfield",male,Summer,26,18.9385352,72.836345,S
+226,0,12,"Berglund, Mr. Karl Ivar Sven",male,Rainy,27,18.9385352,72.836345,S
+227,1,3,"Mellors, Mr. William John",male,Summer,28,18.9385352,72.836345,S
+228,0,4,"Lovell, Mr. John Hall (""Henry"")",male,Rainy,1,18.9385352,72.836345,S
+229,0,5,"Fahlstrom, Mr. Arne Jonas",male,Rainy,2,18.9385352,72.836345,S
+230,0,6,"Lefebre, Miss. Mathilde",female,Rainy,3,18.9385352,72.836345,S
+231,1,7,"Harris, Mrs. Henry Birkhardt (Irene Wallach)",female,Summer,4,18.9385352,72.836345,S
+232,0,9,"Larsson, Mr. Bengt Edvin",male,Rainy,5,18.9385352,72.836345,S
+233,0,8,"Sjostedt, Mr. Ernst Adolf",male,Rainy,6,18.9385352,72.836345,S
+234,1,7,"Asplund, Miss. Lillian Gertrud",female,Winter,7,18.9385352,72.836345,S
+235,0,6,"Leyson, Mr. Robert William Norman",male,Rainy,8,18.9385352,72.836345,S
+236,0,5,"Harknett, Miss. Alice Phoebe",female,Rainy,9,18.9385352,72.836345,S
+237,0,4,"Hold, Mr. Stephen",male,Winter,10,18.9385352,72.836345,S
+238,1,3,"Collyer, Miss. Marjorie ""Lottie""",female,Winter,11,18.9385352,72.836345,S
+239,0,2,"Pengelly, Mr. Frederick William",male,Rainy,12,18.9385352,72.836345,S
+240,0,3,"Hunt, Mr. George Henry",male,Winter,13,18.9385352,72.836345,S
+241,0,4,"Zabour, Miss. Thamine",female,Rainy,14,18.9385352,72.836345,C
+242,1,5,"Murphy, Miss. Katherine ""Kate""",female,Summer,15,18.9385352,72.836345,Q
+243,0,6,"Coleridge, Mr. Reginald Charles",male,Rainy,16,18.9385352,72.836345,S
+244,0,7,"Maenpaa, Mr. Matti Alexanteri",male,Rainy,16,18.9385352,72.836345,S
+245,0,3,"Attalah, Mr. Sleiman",male,Rainy,18,18.9385352,72.836345,C
+246,0,1,"Minahan, Dr. William Edward",male,Winter,19,18.9385352,72.836345,Q
+247,0,3,"Lindahl, Miss. Agda Thorilda Viktoria",female,Rainy,20,18.9385352,72.836345,S
+248,1,2,"Hamalainen, Mrs. William (Anna)",female,Summer,21,18.9385352,72.836345,S
+249,1,1,"Beckwith, Mr. Richard Leonard",male,Summer,22,18.9385352,72.836345,S
+250,0,11,"Carter, Rev. Ernest Courtenay",male,Winter,23,18.9385352,72.836345,S
+251,0,12,"Reed, Mr. James George",male,Rainy,24,18.9385352,72.836345,S
+252,0,11,"Strom, Mrs. Wilhelm (Elna Matilda Persson)",female,Rainy,25,18.9385352,72.836345,S
+253,0,12,"Stead, Mr. William Thomas",male,Rainy,26,18.9385352,72.836345,S
+254,0,3,"Lobb, Mr. William Arthur",male,Rainy,27,18.9385352,72.836345,S
+255,0,4,"Rosblom, Mrs. Viktor (Helena Wilhelmina)",female,Winter,28,18.9385352,72.836345,S
+256,1,5,"Touma, Mrs. Darwis (Hanne Youssef Razi)",female,Summer,1,18.9385352,72.836345,C
+257,1,6,"Thorne, Mrs. Gertrude Maybelle",female,Summer,2,18.9385352,72.836345,C
+258,1,7,"Cherry, Miss. Gladys",female,Summer,3,18.9385352,72.836345,S
+259,1,9,"Ward, Miss. Anna",female,Summer,4,18.9385352,72.836345,C
+260,1,8,"Parrish, Mrs. (Lutie Davis)",female,Winter,5,18.9385352,72.836345,S
+261,0,7,"Smith, Mr. Thomas",male,Rainy,6,18.9385352,72.836345,Q
+262,1,6,"Asplund, Master. Edvin Rojj Felix",male,Winter,7,18.9385352,72.836345,S
+263,0,5,"Taussig, Mr. Emil",male,Winter,8,18.9385352,72.836345,S
+264,0,4,"Harrison, Mr. William",male,Winter,9,18.9385352,72.836345,S
+265,0,3,"Henry, Miss. Delia",female,Rainy,10,18.9385352,72.836345,Q
+266,0,2,"Reeves, Mr. David",male,Winter,11,18.9385352,72.836345,S
+267,0,3,"Panula, Mr. Ernesti Arvid",male,Rainy,12,18.9385352,72.836345,S
+268,1,4,"Persson, Mr. Ernst Ulrik",male,Summer,13,18.9385352,72.836345,S
+269,1,5,"Graham, Mrs. William Thompson (Edith Junkins)",female,Rainy,14,18.9385352,72.836345,S
+270,1,6,"Bissette, Miss. Amelia",female,Summer,15,18.9385352,72.836345,S
+271,0,7,"Cairns, Mr. Alexander",male,Rainy,16,18.9385352,72.836345,S
+272,1,3,"Tornquist, Mr. William Henry",male,Summer,16,18.9385352,72.836345,S
+273,1,2,"Mellinger, Mrs. (Elizabeth Anne Maidment)",female,Summer,18,18.9385352,72.836345,S
+274,0,1,"Natsch, Mr. Charles H",male,Winter,19,18.9385352,72.836345,C
+275,1,3,"Healy, Miss. Hanora ""Nora""",female,Summer,20,18.9385352,72.836345,Q
+276,1,4,"Andrews, Miss. Kornelia Theodosia",female,Rainy,21,18.9385352,72.836345,S
+277,0,3,"Lindblom, Miss. Augusta Charlotta",female,Winter,22,18.9385352,72.836345,S
+278,0,2,"Parkes, Mr. Francis ""Frank""",male,Rainy,23,18.9385352,72.836345,S
+279,0,3,"Rice, Master. Eric",male,Rainy,24,18.9385352,72.836345,Q
+280,1,3,"Abbott, Mrs. Stanton (Rosa Hunt)",female,Summer,25,18.9385352,72.836345,S
+281,0,3,"Duane, Mr. Frank",male,Rainy,26,18.9385352,72.836345,Q
+282,0,3,"Olsson, Mr. Nils Johan Goransson",male,Rainy,27,18.9385352,72.836345,S
+283,0,3,"de Pelsmaeker, Mr. Alfons",male,Rainy,28,18.9385352,72.836345,S
+284,1,3,"Dorking, Mr. Edward Arthur",male,Summer,1,18.9385352,72.836345,S
+285,0,1,"Smith, Mr. Richard William",male,Rainy,2,18.9385352,72.836345,S
+286,0,3,"Stankovic, Mr. Ivan",male,Winter,3,18.9385352,72.836345,C
+287,1,3,"de Mulder, Mr. Theodore",male,Summer,4,18.9385352,72.836345,S
+288,0,3,"Naidenoff, Mr. Penko",male,Rainy,5,18.9385352,72.836345,S
+289,1,2,"Hosono, Mr. Masabumi",male,Summer,6,18.9385352,72.836345,S
+290,1,3,"Connolly, Miss. Kate",female,Summer,7,18.9385352,72.836345,Q
+291,1,1,"Barber, Miss. Ellen ""Nellie""",female,Summer,8,18.9385352,72.836345,S
+292,1,1,"Bishop, Mrs. Dickinson H (Helen Walton)",female,Summer,9,18.9385352,72.836345,C
+293,0,2,"Levy, Mr. Rene Jacques",male,Winter,10,18.9385352,72.836345,C
+294,0,3,"Haas, Miss. Aloisia",female,Rainy,11,18.9385352,72.836345,S
+295,0,3,"Mineff, Mr. Ivan",male,Rainy,12,18.9385352,72.836345,S
+296,0,1,"Lewy, Mr. Ervin G",male,Rainy,13,18.9385352,72.836345,C
+297,0,3,"Hanna, Mr. Mansour",male,Rainy,14,18.9385352,72.836345,C
+298,0,1,"Allison, Miss. Helen Loraine",female,Rainy,15,18.9385352,72.836345,S
+299,1,1,"Saalfeld, Mr. Adolphe",male,Summer,16,18.9385352,72.836345,S
+300,1,5,"Baxter, Mrs. James (Helene DeLaudeniere Chaput)",female,Rainy,16,18.9385352,72.836345,C
+301,1,3,"Kelly, Miss. Anna Katherine ""Annie Kate""",female,Summer,18,18.9385352,72.836345,Q
+302,1,3,"McCoy, Mr. Bernard",male,Summer,19,18.9385352,72.836345,Q
+303,0,3,"Johnson, Mr. William Cahoone Jr",male,Rainy,20,18.9385352,72.836345,S
+304,1,2,"Keane, Miss. Nora A",female,Summer,21,18.9385352,72.836345,Q
+305,0,3,"Williams, Mr. Howard Hugh ""Harry""",male,Rainy,22,18.9385352,72.836345,S
+306,1,6,"Allison, Master. Hudson Trevor",male,Rainy,23,18.9385352,72.836345,S
+307,1,1,"Fleming, Miss. Margaret",female,Summer,24,18.9385352,72.836345,C
+308,1,7,"Penasco y Castellana, Mrs. Victor de Satode (Maria Josefa Perez de Soto y Vallejo)",female,Rainy,25,18.9385352,72.836345,C
+309,0,2,"Abelson, Mr. Samuel",male,Rainy,26,18.9385352,72.836345,C
+310,1,1,"Francatelli, Miss. Laura Mabel",female,Summer,27,18.9385352,72.836345,C
+311,1,1,"Hays, Miss. Margaret Bechstein",female,Summer,28,18.9385352,72.836345,C
+312,1,1,"Ryerson, Miss. Emily Borie",female,Summer,2,18.9385352,72.836345,C
+313,0,1,"Lahtinen, Mrs. William (Anna Sylfven)",female,Rainy,1,18.9385352,72.836345,S
+314,0,11,"Hendekovic, Mr. Ignjac",male,Rainy,1,18.9385352,72.836345,S
+315,0,12,"Hart, Mr. Benjamin",male,Winter,2,18.9385352,72.836345,S
+316,1,11,"Nilsson, Miss. Helmina Josefina",female,Summer,3,18.9385352,72.836345,S
+317,1,12,"Kantor, Mrs. Sinai (Miriam Sternin)",female,Summer,4,18.9385352,72.836345,S
+318,0,3,"Moraweck, Dr. Ernest",male,Winter,5,18.9385352,72.836345,S
+319,1,4,"Wick, Miss. Mary Natalie",female,Summer,6,18.9385352,72.836345,S
+320,1,5,"Spedden, Mrs. Frederic Oakley (Margaretta Corning Stone)",female,Summer,7,18.9385352,72.836345,C
+321,0,6,"Dennis, Mr. Samuel",male,Rainy,8,18.9385352,72.836345,S
+322,0,7,"Danoff, Mr. Yoto",male,Rainy,9,18.9385352,72.836345,S
+323,1,9,"Slayter, Miss. Hilda Mary",female,Summer,10,18.9385352,72.836345,Q
+324,1,8,"Caldwell, Mrs. Albert Francis (Sylvia Mae Harbaugh)",female,Summer,11,18.9385352,72.836345,S
+325,0,7,"Sage, Mr. George John Jr",male,Rainy,12,18.9385352,72.836345,S
+326,1,6,"Young, Miss. Marie Grice",female,Summer,13,18.9385352,72.836345,C
+327,0,5,"Nysveen, Mr. Johan Hansen",male,Rainy,14,18.9385352,72.836345,S
+328,1,4,"Ball, Mrs. (Ada E Hall)",female,Summer,15,18.9385352,72.836345,S
+329,1,3,"Goldsmith, Mrs. Frank John (Emily Alice Brown)",female,Summer,16,18.9385352,72.836345,S
+330,1,2,"Hippach, Miss. Jean Gertrude",female,Rainy,16,18.9385352,72.836345,C
+331,1,3,"McCoy, Miss. Agnes",female,Summer,18,18.9385352,72.836345,Q
+332,0,4,"Partner, Mr. Austen",male,Winter,19,18.9385352,72.836345,S
+333,0,5,"Graham, Mr. George Edward",male,Winter,20,18.9385352,72.836345,S
+334,0,6,"Vander Planke, Mr. Leo Edmondus",male,Rainy,21,18.9385352,72.836345,S
+335,1,7,"Frauenthal, Mrs. Henry William (Clara Heinsheimer)",female,Summer,22,18.9385352,72.836345,S
+336,0,3,"Denkoff, Mr. Mitto",male,Rainy,23,18.9385352,72.836345,S
+337,0,1,"Pears, Mr. Thomas Clinton",male,Rainy,24,18.9385352,72.836345,S
+338,1,1,"Burns, Miss. Elizabeth Margaret",female,Summer,25,18.9385352,72.836345,C
+339,1,3,"Dahl, Mr. Karl Edwart",male,Summer,26,18.9385352,72.836345,S
+340,0,1,"Blackwell, Mr. Stephen Weart",male,Winter,27,18.9385352,72.836345,S
+341,1,2,"Navratil, Master. Edmond Roger",male,Winter,28,18.9385352,72.836345,S
+342,1,1,"Fortune, Miss. Alice Elizabeth",female,Summer,3,18.9385352,72.836345,S
+343,0,2,"Collander, Mr. Erik Gustaf",male,Rainy,1,18.9385352,72.836345,S
+344,0,2,"Sedgwick, Mr. Charles Frederick Waddington",male,Rainy,2,18.9385352,72.836345,S
+345,0,2,"Fox, Mr. Stanley Hubert",male,Winter,3,18.9385352,72.836345,S
+346,1,2,"Brown, Miss. Amelia ""Mildred""",female,Summer,4,18.9385352,72.836345,S
+347,1,2,"Smith, Miss. Marion Elsie",female,Summer,5,18.9385352,72.836345,S
+348,1,3,"Davison, Mrs. Thomas Henry (Mary E Finck)",female,Summer,6,18.9385352,72.836345,S
+349,1,3,"Coutts, Master. William Loch ""William""",male,Winter,7,18.9385352,72.836345,S
+350,0,3,"Dimic, Mr. Jovan",male,Winter,8,18.9385352,72.836345,S
+351,0,3,"Odahl, Mr. Nils Martin",male,Rainy,9,18.9385352,72.836345,S
+352,0,1,"Williams-Lambert, Mr. Fletcher Fellows",male,Rainy,10,18.9385352,72.836345,S
+353,0,3,"Elias, Mr. Tannous",male,Rainy,11,18.9385352,72.836345,C
+354,0,3,"Arnold-Franchi, Mr. Josef",male,Rainy,12,18.9385352,72.836345,S
+355,0,3,"Yousif, Mr. Wazli",male,Rainy,13,18.9385352,72.836345,C
+356,0,3,"Vanden Steen, Mr. Leo Peter",male,Rainy,14,18.9385352,72.836345,S
+357,1,1,"Bowerman, Miss. Elsie Edith",female,Summer,15,18.9385352,72.836345,S
+358,0,2,"Funk, Miss. Annie Clemmer",female,Winter,16,18.9385352,72.836345,S
+359,1,3,"McGovern, Miss. Mary",female,Summer,16,18.9385352,72.836345,Q
+360,1,3,"Mockler, Miss. Helen Mary ""Ellie""",female,Summer,18,18.9385352,72.836345,Q
+361,0,3,"Skoog, Mr. Wilhelm",male,Winter,19,18.9385352,72.836345,S
+362,0,2,"del Carlo, Mr. Sebastiano",male,Rainy,20,18.9385352,72.836345,C
+363,0,3,"Barbara, Mrs. (Catherine David)",female,Winter,21,18.9385352,72.836345,C
+364,0,3,"Asim, Mr. Adola",male,Winter,22,18.9385352,72.836345,S
+365,0,3,"O'Brien, Mr. Thomas",male,Rainy,23,18.9385352,72.836345,Q
+366,0,3,"Adahl, Mr. Mauritz Nils Martin",male,Rainy,24,18.9385352,72.836345,S
+367,1,9,"Warren, Mrs. Frank Manley (Anna Sophia Atkinson)",female,Rainy,25,18.9385352,72.836345,C
+368,1,3,"Moussa, Mrs. (Mantoura Boulos)",female,Summer,26,18.9385352,72.836345,C
+369,1,3,"Jermyn, Miss. Annie",female,Summer,27,18.9385352,72.836345,Q
+370,1,1,"Aubart, Mme. Leontine Pauline",female,Summer,28,18.9385352,72.836345,C
+371,1,1,"Harder, Mr. George Achilles",male,Summer,1,18.9385352,72.836345,C
+372,0,3,"Wiklund, Mr. Jakob Alfred",male,Rainy,1,18.9385352,72.836345,S
+373,0,3,"Beavan, Mr. William Thomas",male,Rainy,1,18.9385352,72.836345,S
+374,0,1,"Ringhini, Mr. Sante",male,Rainy,2,18.9385352,72.836345,C
+375,0,3,"Palsson, Miss. Stina Viola",female,Rainy,3,18.9385352,72.836345,S
+376,1,1,"Meyer, Mrs. Edgar Joseph (Leila Saks)",female,Summer,4,18.9385352,72.836345,C
+377,1,3,"Landergren, Miss. Aurora Adelia",female,Summer,5,18.9385352,72.836345,S
+378,0,1,"Widener, Mr. Harry Elkins",male,Rainy,6,18.9385352,72.836345,C
+379,0,3,"Betros, Mr. Tannous",male,Rainy,7,18.9385352,72.836345,C
+380,0,3,"Gustafsson, Mr. Karl Gideon",male,Rainy,8,18.9385352,72.836345,S
+381,1,1,"Bidois, Miss. Rosalie",female,Summer,9,18.9385352,72.836345,C
+382,1,3,"Nakid, Miss. Maria (""Mary"")",female,Winter,10,18.9385352,72.836345,C
+383,0,3,"Tikkanen, Mr. Juho",male,Winter,11,18.9385352,72.836345,S
+384,1,1,"Holverson, Mrs. Alexander Oskar (Mary Aline Towner)",female,Summer,12,18.9385352,72.836345,S
+385,0,3,"Plotcharsky, Mr. Vasil",male,Rainy,13,18.9385352,72.836345,S
+386,0,2,"Davies, Mr. Charles Henry",male,Rainy,14,18.9385352,72.836345,S
+387,0,3,"Goodwin, Master. Sidney Leonard",male,Rainy,15,18.9385352,72.836345,S
+388,1,2,"Buss, Miss. Kate",female,Summer,16,18.9385352,72.836345,S
+389,0,3,"Sadlier, Mr. Matthew",male,Rainy,16,18.9385352,72.836345,Q
+390,1,2,"Lehmann, Miss. Bertha",female,Winter,18,18.9385352,72.836345,C
+391,1,1,"Carter, Mr. William Ernest",male,Summer,19,18.9385352,72.836345,S
+392,1,3,"Jansson, Mr. Carl Olof",male,Summer,20,18.9385352,72.836345,S
+393,0,3,"Gustafsson, Mr. Johan Birger",male,Rainy,21,18.9385352,72.836345,S
+394,1,1,"Newell, Miss. Marjorie",female,Summer,22,18.9385352,72.836345,C
+395,1,3,"Sandstrom, Mrs. Hjalmar (Agnes Charlotta Bengtsson)",female,Summer,23,18.9385352,72.836345,S
+396,0,3,"Johansson, Mr. Erik",male,Rainy,24,18.9385352,72.836345,S
+397,0,3,"Olsson, Miss. Elina",female,Winter,25,18.9385352,72.836345,S
+398,0,2,"McKane, Mr. Peter David",male,Winter,26,18.9385352,72.836345,S
+399,0,2,"Pain, Dr. Alfred",male,Rainy,27,18.9385352,72.836345,S
+400,1,2,"Trout, Mrs. William H (Jessie L)",female,Summer,28,18.9385352,72.836345,S
+401,1,3,"Niskanen, Mr. Juha",male,Summer,1,18.9385352,72.836345,S
+402,0,3,"Adams, Mr. John",male,Rainy,2,18.9385352,72.836345,S
+403,0,3,"Jussila, Miss. Mari Aina",female,Rainy,3,18.9385352,72.836345,S
+404,0,3,"Hakkarainen, Mr. Pekka Pietari",male,Rainy,4,18.9385352,72.836345,S
+405,0,3,"Oreskovic, Miss. Marija",female,Rainy,5,18.9385352,72.836345,S
+406,0,2,"Gale, Mr. Shadrach",male,Winter,6,18.9385352,72.836345,S
+407,0,3,"Widegren, Mr. Carl/Charles Peter",male,Winter,7,18.9385352,72.836345,S
+408,1,2,"Richards, Master. William Rowe",male,Winter,8,18.9385352,72.836345,S
+409,0,3,"Birkeland, Mr. Hans Martin Monsen",male,Rainy,9,18.9385352,72.836345,S
+410,0,3,"Lefebre, Miss. Ida",female,Rainy,10,18.9385352,72.836345,S
+411,0,3,"Sdycoff, Mr. Todor",male,Rainy,11,18.9385352,72.836345,S
+412,0,3,"Hart, Mr. Henry",male,Rainy,12,18.9385352,72.836345,Q
+413,1,1,"Minahan, Miss. Daisy E",female,Summer,13,18.9385352,72.836345,Q
+414,0,2,"Cunningham, Mr. Alfred Fleming",male,Rainy,14,18.9385352,72.836345,S
+415,1,3,"Sundman, Mr. Johan Julian",male,Summer,15,18.9385352,72.836345,S
+416,0,3,"Meek, Mrs. Thomas (Annie Louise Rowley)",female,Rainy,16,18.9385352,72.836345,S
+417,1,2,"Drew, Mrs. James Vivian (Lulu Thorne Christian)",female,Summer,16,18.9385352,72.836345,S
+418,1,2,"Silven, Miss. Lyyli Karoliina",female,Summer,18,18.9385352,72.836345,S
+419,0,2,"Matthews, Mr. William John",male,Rainy,19,18.9385352,72.836345,S
+420,0,3,"Van Impe, Miss. Catharina",female,Rainy,20,18.9385352,72.836345,S
+421,0,3,"Gheorgheff, Mr. Stanio",male,Rainy,21,18.9385352,72.836345,C
+422,0,3,"Charters, Mr. David",male,Rainy,22,18.9385352,72.836345,Q
+423,0,3,"Zimmerman, Mr. Leo",male,Rainy,23,18.9385352,72.836345,S
+424,0,3,"Danbom, Mrs. Ernst Gilbert (Anna Sigrid Maria Brogren)",female,Rainy,24,18.9385352,72.836345,S
+425,0,3,"Rosblom, Mr. Viktor Richard",male,Rainy,25,18.9385352,72.836345,S
+426,0,3,"Wiseman, Mr. Phillippe",male,Rainy,26,18.9385352,72.836345,S
+427,1,2,"Clarke, Mrs. Charles V (Ada Maria Winfield)",female,Summer,27,18.9385352,72.836345,S
+428,1,2,"Phillips, Miss. Kate Florence (""Mrs Kate Louise Phillips Marshall"")",female,Summer,28,18.9385352,72.836345,S
+429,0,3,"Flynn, Mr. James",male,Rainy,1,18.9385352,72.836345,Q
+430,1,3,"Pickard, Mr. Berk (Berk Trembisky)",male,Summer,2,18.9385352,72.836345,S
+431,1,1,"Bjornstrom-Steffansson, Mr. Mauritz Hakan",male,Summer,3,18.9385352,72.836345,S
+432,1,3,"Thorneycroft, Mrs. Percival (Florence Kate White)",female,Summer,4,18.9385352,72.836345,S
+433,1,2,"Louch, Mrs. Charles Alexander (Alice Adelaide Slow)",female,Summer,5,18.9385352,72.836345,S
+434,0,3,"Kallio, Mr. Nikolai Erland",male,Rainy,6,18.9385352,72.836345,S
+435,0,1,"Silvey, Mr. William Baird",male,Winter,7,18.9385352,72.836345,S
+436,1,10,"Carter, Miss. Lucile Polk",female,Rainy,8,18.9385352,72.836345,S
+437,0,3,"Ford, Miss. Doolina Margaret ""Daisy""",female,Rainy,9,18.9385352,72.836345,S
+438,1,2,"Richards, Mrs. Sidney (Emily Hocking)",female,Summer,10,18.9385352,72.836345,S
+439,0,1,"Fortune, Mr. Mark",male,Rainy,11,18.9385352,72.836345,S
+440,0,2,"Kvillner, Mr. Johan Henrik Johannesson",male,Winter,12,18.9385352,72.836345,S
+441,1,2,"Hart, Mrs. Benjamin (Esther Ada Bloomfield)",female,Summer,13,18.9385352,72.836345,S
+442,0,3,"Hampe, Mr. Leon",male,Rainy,14,18.9385352,72.836345,S
+443,0,3,"Petterson, Mr. Johan Emil",male,Rainy,15,18.9385352,72.836345,S
+444,1,2,"Reynaldo, Ms. Encarnacion",female,Summer,16,18.9385352,72.836345,S
+445,1,3,"Johannesen-Bratthammer, Mr. Bernt",male,Summer,16,18.9385352,72.836345,S
+446,1,11,"Dodge, Master. Washington",male,Winter,18,18.9385352,72.836345,S
+447,1,2,"Mellinger, Miss. Madeleine Violet",female,Winter,19,18.9385352,72.836345,S
+448,1,1,"Seward, Mr. Frederic Kimber",male,Summer,20,18.9385352,72.836345,S
+449,1,11,"Baclini, Miss. Marie Catherine",female,Winter,1,18.9385352,72.836345,C
+450,1,12,"Peuchen, Major. Arthur Godfrey",male,Winter,2,18.9385352,72.836345,S
+451,0,11,"West, Mr. Edwy Arthur",male,Winter,3,18.9385352,72.836345,S
+452,0,12,"Hagland, Mr. Ingvald Olai Olsen",male,Rainy,4,18.9385352,72.836345,S
+453,0,3,"Foreman, Mr. Benjamin Laventall",male,Rainy,5,18.9385352,72.836345,C
+454,1,4,"Goldenberg, Mr. Samuel L",male,Summer,6,18.9385352,72.836345,C
+455,0,5,"Peduzzi, Mr. Joseph",male,Rainy,7,18.9385352,72.836345,S
+456,1,6,"Jalsevac, Mr. Ivan",male,Summer,8,18.9385352,72.836345,C
+457,0,7,"Millet, Mr. Francis Davis",male,Rainy,9,18.9385352,72.836345,S
+458,1,9,"Kenyon, Mrs. Frederick R (Marion)",female,Summer,10,18.9385352,72.836345,S
+459,1,8,"Toomey, Miss. Ellen",female,Winter,11,18.9385352,72.836345,S
+460,0,7,"O'Connor, Mr. Maurice",male,Rainy,12,18.9385352,72.836345,Q
+461,1,6,"Anderson, Mr. Harry",male,Summer,13,18.9385352,72.836345,S
+462,0,5,"Morley, Mr. William",male,Winter,14,18.9385352,72.836345,S
+463,0,4,"Gee, Mr. Arthur H",male,Winter,15,18.9385352,72.836345,S
+464,0,3,"Milling, Mr. Jacob Christian",male,Winter,16,18.9385352,72.836345,S
+465,0,2,"Maisner, Mr. Simon",male,Rainy,16,18.9385352,72.836345,S
+466,0,3,"Goncalves, Mr. Manuel Estanslas",male,Winter,18,18.9385352,72.836345,S
+467,0,4,"Campbell, Mr. William",male,Rainy,19,18.9385352,72.836345,S
+468,0,5,"Smart, Mr. John Montgomery",male,Winter,1,18.9385352,72.836345,S
+469,0,6,"Scanlan, Mr. James",male,Rainy,2,18.9385352,72.836345,Q
+470,1,7,"Baclini, Miss. Helene Barbara",female,Rainy,3,18.9385352,72.836345,C
+471,0,3,"Keefe, Mr. Arthur",male,Rainy,4,18.9385352,72.836345,S
+472,0,3,"Cacic, Mr. Luka",male,Winter,5,18.9385352,72.836345,S
+473,1,2,"West, Mrs. Edwy Arthur (Ada Mary Worth)",female,Summer,6,18.9385352,72.836345,S
+474,1,2,"Jerwan, Mrs. Amin S (Marie Marthe Thuillard)",female,Summer,7,18.9385352,72.836345,C
+475,0,3,"Strandberg, Miss. Ida Sofia",female,Rainy,8,18.9385352,72.836345,S
+476,0,1,"Clifford, Mr. George Quincy",male,Rainy,9,18.9385352,72.836345,S
+477,0,2,"Renouf, Mr. Peter Henry",male,Winter,10,18.9385352,72.836345,S
+478,0,3,"Braund, Mr. Lewis Richard",male,Rainy,11,18.9385352,72.836345,S
+479,0,3,"Karlsson, Mr. Nils August",male,Rainy,12,18.9385352,72.836345,S
+480,1,3,"Hirvonen, Miss. Hildur E",female,Rainy,13,18.9385352,72.836345,S
+481,0,3,"Goodwin, Master. Harold Victor",male,Rainy,14,18.9385352,72.836345,S
+482,0,2,"Frost, Mr. Anthony Wood ""Archie""",male,Rainy,15,18.9385352,72.836345,S
+483,0,3,"Rouse, Mr. Richard Henry",male,Winter,16,18.9385352,72.836345,S
+484,1,3,"Turkula, Mrs. (Hedwig)",female,Rainy,16,18.9385352,72.836345,S
+485,1,1,"Bishop, Mr. Dickinson H",male,Summer,18,18.9385352,72.836345,C
+486,0,3,"Lefebre, Miss. Jeannie",female,Rainy,19,18.9385352,72.836345,S
+487,1,1,"Hoyt, Mrs. Frederick Maxfield (Jane Anne Forby)",female,Summer,20,18.9385352,72.836345,S
+488,0,1,"Kent, Mr. Edward Austin",male,Rainy,21,18.9385352,72.836345,C
+489,0,3,"Somerton, Mr. Francis William",male,Rainy,22,18.9385352,72.836345,S
+490,1,3,"Coutts, Master. Eden Leslie ""Neville""",male,Rainy,23,18.9385352,72.836345,S
+491,0,3,"Hagland, Mr. Konrad Mathias Reiersen",male,Rainy,24,18.9385352,72.836345,S
+492,0,3,"Windelov, Mr. Einar",male,Rainy,25,18.9385352,72.836345,S
+493,0,1,"Molson, Mr. Harry Markland",male,Winter,26,18.9385352,72.836345,S
+494,0,1,"Artagaveytia, Mr. Ramon",male,Rainy,27,18.9385352,72.836345,C
+495,0,3,"Stanley, Mr. Edward Roland",male,Rainy,28,18.9385352,72.836345,S
+496,0,3,"Yousseff, Mr. Gerious",male,Rainy,1,18.9385352,72.836345,C
+497,1,2,"Eustis, Miss. Elizabeth Mussey",female,Winter,2,18.9385352,72.836345,C
+498,0,3,"Shellard, Mr. Frederick William",male,Rainy,3,18.9385352,72.836345,S
+499,0,1,"Allison, Mrs. Hudson J C (Bessie Waldo Daniels)",female,Rainy,4,18.9385352,72.836345,S
+500,0,3,"Svensson, Mr. Olof",male,Rainy,5,18.9385352,72.836345,S
+501,0,3,"Calic, Mr. Petar",male,Rainy,6,18.9385352,72.836345,S
+502,0,3,"Canavan, Miss. Mary",female,Rainy,7,18.9385352,72.836345,Q
+503,0,3,"O'Sullivan, Miss. Bridget Mary",female,Rainy,8,18.9385352,72.836345,Q
+504,0,3,"Laitinen, Miss. Kristina Sofia",female,Winter,9,18.9385352,72.836345,S
+505,1,3,"Maioni, Miss. Roberta",female,Winter,10,18.9385352,72.836345,S
+506,0,1,"Penasco y Castellana, Mr. Victor de Satode",male,Rainy,11,18.9385352,72.836345,C
+507,1,2,"Quick, Mrs. Frederick Charles (Jane Richards)",female,Summer,12,18.9385352,72.836345,S
+508,1,1,"Bradley, Mr. George (""George Arthur Brayton"")",male,Summer,13,18.9385352,72.836345,S
+509,0,3,"Olsen, Mr. Henry Margido",male,Rainy,14,18.9385352,72.836345,S
+510,1,3,"Lang, Mr. Fang",male,Summer,15,18.9385352,72.836345,S
+511,1,3,"Daly, Mr. Eugene Patrick",male,Summer,16,18.9385352,72.836345,Q
+512,0,3,"Webber, Mr. James",male,Rainy,16,18.9385352,72.836345,S
+513,1,1,"McGough, Mr. James Robert",male,Summer,18,18.9385352,72.836345,S
+514,1,4,"Rothschild, Mrs. Martin (Elizabeth L. Barrett)",female,Winter,19,18.9385352,72.836345,C
+515,0,3,"Coleff, Mr. Satio",male,Rainy,20,18.9385352,72.836345,S
+516,0,1,"Walker, Mr. William Anderson",male,Winter,21,18.9385352,72.836345,S
+517,1,2,"Lemore, Mrs. (Amelia Milley)",female,Summer,22,18.9385352,72.836345,S
+518,0,3,"Ryan, Mr. Patrick",male,Rainy,23,18.9385352,72.836345,Q
+519,1,1,"Angle, Mrs. William A (Florence ""Mary"" Agnes Hughes)",female,Summer,24,18.9385352,72.836345,S
+520,0,11,"Pavlovic, Mr. Stefo",male,Winter,25,18.9385352,72.836345,S
+521,1,12,"Perreault, Miss. Anne",female,Summer,1,18.9385352,72.836345,S
+522,0,11,"Vovk, Mr. Janko",male,Rainy,2,18.9385352,72.836345,S
+523,0,12,"Lahoud, Mr. Sarkis",male,Rainy,3,18.9385352,72.836345,C
+524,1,3,"Hippach, Mrs. Louis Albert (Ida Sophia Fischer)",female,Summer,4,18.9385352,72.836345,C
+525,0,4,"Kassem, Mr. Fared",male,Rainy,5,18.9385352,72.836345,C
+526,0,5,"Farrell, Mr. James",male,Winter,6,18.9385352,72.836345,Q
+527,1,6,"Ridsdale, Miss. Lucy",female,Rainy,7,18.9385352,72.836345,S
+528,0,7,"Farthing, Mr. John",male,Rainy,8,18.9385352,72.836345,S
+529,0,9,"Salonen, Mr. Johan Werner",male,Winter,9,18.9385352,72.836345,S
+530,0,8,"Hocking, Mr. Richard George",male,Rainy,10,18.9385352,72.836345,S
+531,1,7,"Quick, Miss. Phyllis May",female,Rainy,11,18.9385352,72.836345,S
+532,0,6,"Toufik, Mr. Nakli",male,Rainy,12,18.9385352,72.836345,C
+533,0,5,"Elias, Mr. Joseph Jr",male,Rainy,13,18.9385352,72.836345,C
+534,1,4,"Peter, Mrs. Catherine (Catherine Rizk)",female,Summer,14,18.9385352,72.836345,C
+535,0,3,"Cacic, Miss. Marija",female,Rainy,15,18.9385352,72.836345,S
+536,1,2,"Hart, Miss. Eva Miriam",female,Rainy,16,18.9385352,72.836345,S
+537,0,3,"Butt, Major. Archibald Willingham",male,Winter,16,18.9385352,72.836345,S
+538,1,4,"LeRoy, Miss. Bertha",female,Summer,18,18.9385352,72.836345,C
+539,0,5,"Risien, Mr. Samuel Beard",male,Rainy,19,18.9385352,72.836345,S
+540,1,6,"Frolicher, Miss. Hedwig Margaritha",female,Summer,20,18.9385352,72.836345,C
+541,1,7,"Crosby, Miss. Harriet R",female,Summer,21,18.9385352,72.836345,S
+542,0,3,"Andersson, Miss. Ingeborg Constanzia",female,Rainy,22,18.9385352,72.836345,S
+543,0,3,"Andersson, Miss. Sigrid Elisabeth",female,Rainy,23,18.9385352,72.836345,S
+544,1,2,"Beane, Mr. Edward",male,Summer,24,18.9385352,72.836345,S
+545,0,1,"Douglas, Mr. Walter Donald",male,Winter,25,18.9385352,72.836345,C
+546,0,1,"Nicholson, Mr. Arthur Ernest",male,Rainy,26,18.9385352,72.836345,S
+547,1,2,"Beane, Mrs. Edward (Ethel Clarke)",female,Summer,27,18.9385352,72.836345,S
+548,1,2,"Padro y Manent, Mr. Julian",male,Summer,28,18.9385352,72.836345,C
+549,0,3,"Goldsmith, Mr. Frank John",male,Winter,1,18.9385352,72.836345,S
+550,1,2,"Davies, Master. John Morgan Jr",male,Rainy,2,18.9385352,72.836345,S
+551,1,5,"Thayer, Mr. John Borland Jr",male,Winter,3,18.9385352,72.836345,C
+552,0,2,"Sharp, Mr. Percival James R",male,Rainy,4,18.9385352,72.836345,S
+553,0,3,"O'Brien, Mr. Timothy",male,Rainy,5,18.9385352,72.836345,Q
+554,1,3,"Leeni, Mr. Fahim (""Philip Zenni"")",male,Summer,6,18.9385352,72.836345,C
+555,1,3,"Ohman, Miss. Velin",female,Summer,7,18.9385352,72.836345,S
+556,0,1,"Wright, Mr. George",male,Rainy,8,18.9385352,72.836345,S
+557,1,1,"Duff Gordon, Lady. (Lucille Christiana Sutherland) (""Mrs Morgan"")",female,Summer,9,18.9385352,72.836345,C
+558,0,1,"Robbins, Mr. Victor",male,Rainy,10,18.9385352,72.836345,C
+559,1,1,"Taussig, Mrs. Emil (Tillie Mandelbaum)",female,Summer,11,18.9385352,72.836345,S
+560,1,3,"de Messemaeker, Mrs. Guillaume Joseph (Emma)",female,Summer,12,18.9385352,72.836345,S
+561,0,3,"Morrow, Mr. Thomas Rowan",male,Rainy,13,18.9385352,72.836345,Q
+562,0,3,"Sivic, Mr. Husein",male,Winter,14,18.9385352,72.836345,S
+563,0,2,"Norman, Mr. Robert Douglas",male,Rainy,15,18.9385352,72.836345,S
+564,0,3,"Simmons, Mr. John",male,Rainy,16,18.9385352,72.836345,S
+565,0,3,"Meanwell, Miss. (Marion Ogden)",female,Rainy,16,18.9385352,72.836345,S
+566,0,3,"Davies, Mr. Alfred J",male,Rainy,18,18.9385352,72.836345,S
+567,0,3,"Stoytcheff, Mr. Ilia",male,Rainy,19,18.9385352,72.836345,S
+568,0,3,"Palsson, Mrs. Nils (Alma Cornelia Berglund)",female,Rainy,20,18.9385352,72.836345,S
+569,0,3,"Doharr, Mr. Tannous",male,Rainy,21,18.9385352,72.836345,C
+570,1,3,"Jonsson, Mr. Carl",male,Summer,22,18.9385352,72.836345,S
+571,1,2,"Harris, Mr. George",male,Rainy,1,18.9385352,72.836345,S
+572,1,6,"Appleton, Mrs. Edward Dale (Charlotte Lamson)",female,Winter,2,18.9385352,72.836345,S
+573,1,1,"Flynn, Mr. John Irwin (""Irving"")",male,Summer,3,18.9385352,72.836345,S
+574,1,3,"Kelly, Miss. Mary",female,Summer,4,18.9385352,72.836345,Q
+575,0,3,"Rush, Mr. Alfred George John",male,Rainy,5,18.9385352,72.836345,S
+576,0,3,"Patchett, Mr. George",male,Rainy,6,18.9385352,72.836345,S
+577,1,2,"Garside, Miss. Ethel",female,Summer,7,18.9385352,72.836345,S
+578,1,1,"Silvey, Mrs. William Baird (Alice Munger)",female,Summer,8,18.9385352,72.836345,S
+579,0,3,"Caram, Mrs. Joseph (Maria Elias)",female,Rainy,9,18.9385352,72.836345,C
+580,1,3,"Jussila, Mr. Eiriik",male,Summer,10,18.9385352,72.836345,S
+581,1,2,"Christy, Miss. Julie Rachel",female,Summer,11,18.9385352,72.836345,S
+582,1,1,"Thayer, Mrs. John Borland (Marian Longstreth Morris)",female,Summer,12,18.9385352,72.836345,C
+583,0,1,"Downton, Mr. William James",male,Winter,13,18.9385352,72.836345,S
+584,0,11,"Ross, Mr. John Hugo",male,Winter,14,18.9385352,72.836345,C
+585,0,12,"Paulner, Mr. Uscher",male,Rainy,15,18.9385352,72.836345,C
+586,1,11,"Taussig, Miss. Ruth",female,Summer,16,18.9385352,72.836345,S
+587,0,12,"Jarvis, Mr. John Denzil",male,Winter,16,18.9385352,72.836345,S
+588,1,3,"Frolicher-Stehli, Mr. Maxmillian",male,Winter,18,18.9385352,72.836345,C
+589,0,4,"Gilinski, Mr. Eliezer",male,Rainy,19,18.9385352,72.836345,S
+590,0,5,"Murdlin, Mr. Joseph",male,Rainy,20,18.9385352,72.836345,S
+591,0,6,"Rintamaki, Mr. Matti",male,Winter,21,18.9385352,72.836345,S
+592,1,7,"Stephenson, Mrs. Walter Bertram (Martha Eustis)",female,Winter,22,18.9385352,72.836345,C
+593,0,9,"Elsbury, Mr. William James",male,Winter,23,18.9385352,72.836345,S
+594,0,8,"Bourke, Miss. Mary",female,Rainy,24,18.9385352,72.836345,Q
+595,0,7,"Chapman, Mr. John Henry",male,Winter,25,18.9385352,72.836345,S
+596,0,6,"Van Impe, Mr. Jean Baptiste",male,Summer,26,18.9385352,72.836345,S
+597,1,5,"Leitch, Miss. Jessie Wills",female,Summer,27,18.9385352,72.836345,S
+598,0,4,"Johnson, Mr. Alfred",male,Summer,28,18.9385352,72.836345,S
+599,0,3,"Boulos, Mr. Hanna",male,Rainy,1,18.9385352,72.836345,C
+600,1,2,"Duff Gordon, Sir. Cosmo Edmund (""Mr Morgan"")",male,Summer,2,18.9385352,72.836345,C
+601,1,3,"Jacobsohn, Mrs. Sidney Samuel (Amy Frances Christy)",female,Summer,3,18.9385352,72.836345,S
+602,0,4,"Slabenoff, Mr. Petco",male,Rainy,4,18.9385352,72.836345,S
+603,0,5,"Harrington, Mr. Charles H",male,Rainy,5,18.9385352,72.836345,S
+604,0,6,"Torber, Mr. Ernst William",male,Summer,6,18.9385352,72.836345,S
+605,1,7,"Homer, Mr. Harry (""Mr E Haven"")",male,Summer,7,18.9385352,72.836345,C
+606,0,3,"Lindell, Mr. Edvard Bengtsson",male,Summer,8,18.9385352,72.836345,S
+607,0,3,"Karaic, Mr. Milan",male,Rainy,9,18.9385352,72.836345,S
+608,1,1,"Daniel, Mr. Robert Williams",male,Summer,10,18.9385352,72.836345,S
+609,1,2,"Laroche, Mrs. Joseph (Juliette Marie Louise Lafargue)",female,Summer,11,18.9385352,72.836345,C
+610,1,1,"Shutes, Miss. Elizabeth W",female,Summer,12,18.9385352,72.836345,S
+611,0,3,"Andersson, Mrs. Anders Johan (Alfrida Konstantia Brogren)",female,Summer,13,18.9385352,72.836345,S
+612,0,3,"Jardin, Mr. Jose Neto",male,Rainy,14,18.9385352,72.836345,S
+613,1,3,"Murphy, Miss. Margaret Jane",female,Summer,15,18.9385352,72.836345,Q
+614,0,3,"Horgan, Mr. John",male,Rainy,16,18.9385352,72.836345,Q
+615,0,3,"Brocklebank, Mr. William Alfred",male,Summer,16,18.9385352,72.836345,S
+616,1,2,"Herman, Miss. Alice",female,Summer,18,18.9385352,72.836345,S
+617,0,3,"Danbom, Mr. Ernst Gilbert",male,Summer,19,18.9385352,72.836345,S
+618,0,3,"Lobb, Mrs. William Arthur (Cordelia K Stanlick)",female,Rainy,20,18.9385352,72.836345,S
+619,1,2,"Becker, Miss. Marion Louise",female,Rainy,21,18.9385352,72.836345,S
+620,0,2,"Gavey, Mr. Lawrence",male,Rainy,22,18.9385352,72.836345,S
+621,0,3,"Yasbeck, Mr. Antoni",male,Rainy,23,18.9385352,72.836345,C
+622,1,1,"Kimball, Mr. Edwin Nelson Jr",male,Summer,24,18.9385352,72.836345,S
+623,1,3,"Nakid, Mr. Sahid",male,Summer,25,18.9385352,72.836345,C
+624,0,3,"Hansen, Mr. Henry Damsgaard",male,Rainy,26,18.9385352,72.836345,S
+625,0,3,"Bowen, Mr. David John ""Dai""",male,Rainy,27,18.9385352,72.836345,S
+626,0,1,"Sutton, Mr. Frederick",male,Rainy,28,18.9385352,72.836345,S
+627,0,2,"Kirkland, Rev. Charles Leonard",male,Summer,1,18.9385352,72.836345,Q
+628,1,1,"Longley, Miss. Gretchen Fiske",female,Summer,2,18.9385352,72.836345,S
+629,0,3,"Bostandyeff, Mr. Guentcho",male,Rainy,3,18.9385352,72.836345,S
+630,0,3,"O'Connell, Mr. Patrick D",male,Rainy,4,18.9385352,72.836345,Q
+631,1,9,"Barkworth, Mr. Algernon Henry Wilson",male,Winter,5,18.9385352,72.836345,S
+632,0,3,"Lundahl, Mr. Johan Svensson",male,Summer,6,18.9385352,72.836345,S
+633,1,1,"Stahelin-Maeglin, Dr. Max",male,Summer,7,18.9385352,72.836345,C
+634,0,1,"Parr, Mr. William Henry Marsh",male,Rainy,8,18.9385352,72.836345,S
+635,0,3,"Skoog, Miss. Mabel",female,Rainy,9,18.9385352,72.836345,S
+636,1,2,"Davis, Miss. Mary",female,Summer,10,18.9385352,72.836345,S
+637,0,3,"Leinonen, Mr. Antti Gustaf",male,Summer,11,18.9385352,72.836345,S
+638,0,2,"Collyer, Mr. Harvey",male,Summer,12,18.9385352,72.836345,S
+639,0,3,"Panula, Mrs. Juha (Maria Emilia Ojala)",female,Summer,13,18.9385352,72.836345,S
+640,0,3,"Thorneycroft, Mr. Percival",male,Rainy,14,18.9385352,72.836345,S
+641,0,3,"Jensen, Mr. Hans Peder",male,Rainy,15,18.9385352,72.836345,S
+642,1,1,"Sagesser, Mlle. Emma",female,Summer,16,18.9385352,72.836345,C
+643,0,3,"Skoog, Miss. Margit Elizabeth",female,Rainy,16,18.9385352,72.836345,S
+644,1,3,"Foo, Mr. Choong",male,Summer,18,18.9385352,72.836345,S
+645,1,3,"Baclini, Miss. Eugenie",female,Rainy,19,18.9385352,72.836345,C
+646,1,1,"Harper, Mr. Henry Sleeper",male,Summer,20,18.9385352,72.836345,C
+647,0,3,"Cor, Mr. Liudevit",male,Rainy,21,18.9385352,72.836345,S
+648,1,7,"Simonius-Blumer, Col. Oberst Alfons",male,Winter,22,18.9385352,72.836345,C
+649,0,3,"Willey, Mr. Edward",male,Rainy,23,18.9385352,72.836345,S
+650,1,3,"Stanley, Miss. Amy Zillah Elsie",female,Summer,24,18.9385352,72.836345,S
+651,0,3,"Mitkoff, Mr. Mito",male,Rainy,25,18.9385352,72.836345,S
+652,1,2,"Doling, Miss. Elsie",female,Summer,26,18.9385352,72.836345,S
+653,0,3,"Kalvik, Mr. Johannes Halvorsen",male,Rainy,27,18.9385352,72.836345,S
+654,1,3,"O'Leary, Miss. Hanora ""Norah""",female,Summer,28,18.9385352,72.836345,Q
+655,0,3,"Hegarty, Miss. Hanora ""Nora""",female,Rainy,1,18.9385352,72.836345,Q
+656,0,2,"Hickman, Mr. Leonard Mark",male,Rainy,2,18.9385352,72.836345,S
+657,0,3,"Radeff, Mr. Alexander",male,Rainy,3,18.9385352,72.836345,S
+658,0,3,"Bourke, Mrs. John (Catherine)",female,Summer,4,18.9385352,72.836345,Q
+659,0,1,"Eitemiller, Mr. George Floyd",male,Rainy,5,18.9385352,72.836345,S
+660,0,11,"Newell, Mr. Arthur Webster",male,Rainy,6,18.9385352,72.836345,C
+661,1,12,"Frauenthal, Dr. Henry William",male,Winter,7,18.9385352,72.836345,S
+662,0,11,"Badt, Mr. Mohamed",male,Summer,8,18.9385352,72.836345,C
+663,0,12,"Colley, Mr. Edward Pomeroy",male,Summer,9,18.9385352,72.836345,S
+664,0,3,"Coleff, Mr. Peju",male,Summer,10,18.9385352,72.836345,S
+665,1,4,"Lindqvist, Mr. Eino William",male,Summer,11,18.9385352,72.836345,S
+666,0,5,"Hickman, Mr. Lewis",male,Summer,12,18.9385352,72.836345,S
+667,0,6,"Butler, Mr. Reginald Fenton",male,Rainy,13,18.9385352,72.836345,S
+668,0,7,"Rommetvedt, Mr. Knud Paust",male,Rainy,14,18.9385352,72.836345,S
+669,0,9,"Cook, Mr. Jacob",male,Summer,15,18.9385352,72.836345,S
+670,1,8,"Taylor, Mrs. Elmer Zebley (Juliet Cummins Wright)",female,Summer,16,18.9385352,72.836345,S
+671,1,7,"Brown, Mrs. Thomas William Solomon (Elizabeth Catherine Ford)",female,Summer,16,18.9385352,72.836345,S
+672,0,6,"Davidson, Mr. Thornton",male,Summer,18,18.9385352,72.836345,S
+673,0,5,"Mitchell, Mr. Henry Michael",male,Rainy,19,18.9385352,72.836345,S
+674,1,4,"Wilhelms, Mr. Charles",male,Summer,20,18.9385352,72.836345,S
+675,0,3,"Watson, Mr. Ennis Hastings",male,Rainy,21,18.9385352,72.836345,S
+676,0,2,"Edvardsson, Mr. Gustaf Hjalmar",male,Rainy,22,18.9385352,72.836345,S
+677,0,3,"Sawyer, Mr. Frederick Charles",male,Rainy,23,18.9385352,72.836345,S
+678,1,4,"Turja, Miss. Anna Sofia",female,Summer,24,18.9385352,72.836345,S
+679,0,5,"Goodwin, Mrs. Frederick (Augusta Tyler)",female,Summer,25,18.9385352,72.836345,S
+680,1,6,"Cardeza, Mr. Thomas Drake Martinez",male,Summer,26,18.9385352,72.836345,C
+681,0,7,"Peters, Miss. Katie",female,Rainy,27,18.9385352,72.836345,Q
+682,1,1,"Hassab, Mr. Hammad",male,Summer,28,18.9385352,72.836345,C
+683,0,3,"Olsvigen, Mr. Thor Anderson",male,Rainy,1,18.9385352,72.836345,S
+684,0,3,"Goodwin, Mr. Charles Edward",male,Rainy,2,18.9385352,72.836345,S
+685,0,2,"Brown, Mr. Thomas William Solomon",male,Rainy,3,18.9385352,72.836345,S
+686,0,2,"Laroche, Mr. Joseph Philippe Lemercier",male,Rainy,4,18.9385352,72.836345,C
+687,0,3,"Panula, Mr. Jaako Arnold",male,Rainy,5,18.9385352,72.836345,S
+688,0,3,"Dakic, Mr. Branko",male,Rainy,6,18.9385352,72.836345,S
+689,0,3,"Fischer, Mr. Eberhard Thelander",male,Rainy,7,18.9385352,72.836345,S
+690,1,4,"Madill, Miss. Georgette Alexandra",female,Winter,8,18.9385352,72.836345,S
+691,1,1,"Dick, Mr. Albert Adrian",male,Summer,9,18.9385352,72.836345,S
+692,1,3,"Karun, Miss. Manca",female,Rainy,10,18.9385352,72.836345,C
+693,1,3,"Lam, Mr. Ali",male,Summer,11,18.9385352,72.836345,S
+694,0,3,"Saad, Mr. Khalil",male,Rainy,12,18.9385352,72.836345,C
+695,0,1,"Weir, Col. John",male,Rainy,13,18.9385352,72.836345,S
+696,0,2,"Chapman, Mr. Charles Henry",male,Summer,14,18.9385352,72.836345,S
+697,0,3,"Kelly, Mr. James",male,Summer,15,18.9385352,72.836345,S
+698,1,3,"Mullens, Miss. Katherine ""Katie""",female,Summer,16,18.9385352,72.836345,Q
+699,0,1,"Thayer, Mr. John Borland",male,Summer,16,18.9385352,72.836345,C
+700,0,3,"Humblen, Mr. Adolf Mathias Nicolai Olsen",male,Summer,18,18.9385352,72.836345,S
+701,1,1,"Astor, Mrs. John Jacob (Madeleine Talmadge Force)",female,Summer,19,18.9385352,72.836345,C
+702,1,1,"Silverthorne, Mr. Spencer Victor",male,Summer,20,18.9385352,72.836345,S
+703,0,3,"Barbara, Miss. Saiide",female,Rainy,21,18.9385352,72.836345,C
+704,0,3,"Gallagher, Mr. Martin",male,Rainy,22,18.9385352,72.836345,Q
+705,0,3,"Hansen, Mr. Henrik Juul",male,Rainy,23,18.9385352,72.836345,S
+706,0,1,"Morley, Mr. Henry Samuel (""Mr Henry Marshall"")",male,Summer,24,18.9385352,72.836345,S
+707,1,11,"Kelly, Mrs. Florence ""Fannie""",female,Summer,25,18.9385352,72.836345,S
+708,1,12,"Calderhead, Mr. Edward Pennington",male,Summer,26,18.9385352,72.836345,S
+709,1,11,"Cleaver, Miss. Alice",female,Summer,27,18.9385352,72.836345,S
+710,1,12,"Moubarek, Master. Halim Gonios (""William George"")",male,Summer,28,18.9385352,72.836345,C
+711,1,3,"Mayne, Mlle. Berthe Antonine (""Mrs de Villiers"")",female,Summer,1,18.9385352,72.836345,C
+712,0,4,"Klaber, Mr. Herman",male,Rainy,2,18.9385352,72.836345,S
+713,1,5,"Taylor, Mr. Elmer Zebley",male,Summer,3,18.9385352,72.836345,S
+714,0,6,"Larsson, Mr. August Viktor",male,Rainy,4,18.9385352,72.836345,S
+715,0,7,"Greenberg, Mr. Samuel",male,Summer,5,18.9385352,72.836345,S
+716,0,9,"Soholt, Mr. Peter Andreas Lauritz Andersen",male,Rainy,6,18.9385352,72.836345,S
+717,1,8,"Endres, Miss. Caroline Louise",female,Summer,7,18.9385352,72.836345,C
+718,1,7,"Troutt, Miss. Edwina Celia ""Winnie""",female,Summer,8,18.9385352,72.836345,S
+719,0,6,"McEvoy, Mr. Michael",male,Rainy,9,18.9385352,72.836345,Q
+720,0,5,"Johnson, Mr. Malkolm Joackim",male,Summer,10,18.9385352,72.836345,S
+721,1,4,"Harper, Miss. Annie Jessie ""Nina""",female,Rainy,11,18.9385352,72.836345,S
+722,0,3,"Jensen, Mr. Svend Lauritz",male,Rainy,12,18.9385352,72.836345,S
+723,0,2,"Gillespie, Mr. William Henry",male,Summer,13,18.9385352,72.836345,S
+724,0,3,"Hodges, Mr. Henry Price",male,Summer,14,18.9385352,72.836345,S
+725,1,4,"Chambers, Mr. Norman Campbell",male,Summer,15,18.9385352,72.836345,S
+726,0,5,"Oreskovic, Mr. Luka",male,Rainy,16,18.9385352,72.836345,S
+727,1,6,"Renouf, Mrs. Peter Henry (Lillian Jefferys)",female,Summer,16,18.9385352,72.836345,S
+728,1,7,"Mannion, Miss. Margareth",female,Summer,18,18.9385352,72.836345,Q
+729,0,2,"Bryhl, Mr. Kurt Arnold Gottfrid",male,Rainy,19,18.9385352,72.836345,S
+730,0,3,"Ilmakangas, Miss. Pieta Sofia",female,Rainy,20,18.9385352,72.836345,S
+731,1,1,"Allen, Miss. Elisabeth Walton",female,Summer,21,18.9385352,72.836345,S
+732,0,3,"Hassan, Mr. Houssein G N",male,Rainy,22,18.9385352,72.836345,C
+733,0,2,"Knight, Mr. Robert J",male,Rainy,23,18.9385352,72.836345,S
+734,0,2,"Berriman, Mr. William John",male,Rainy,24,18.9385352,72.836345,S
+735,0,2,"Troupiansky, Mr. Moses Aaron",male,Rainy,25,18.9385352,72.836345,S
+736,0,3,"Williams, Mr. Leslie",male,Rainy,26,18.9385352,72.836345,S
+737,0,3,"Ford, Mrs. Edward (Margaret Ann Watson)",female,Summer,27,18.9385352,72.836345,S
+738,1,1,"Lesurer, Mr. Gustave J",male,Summer,28,18.9385352,72.836345,C
+739,0,3,"Ivanoff, Mr. Kanio",male,Rainy,25,18.9385352,72.836345,S
+740,0,3,"Nankoff, Mr. Minko",male,Rainy,26,18.9385352,72.836345,S
+741,1,1,"Hawksford, Mr. Walter James",male,Summer,27,18.9385352,72.836345,S
+742,0,1,"Cavendish, Mr. Tyrell William",male,Summer,28,18.9385352,72.836345,S
+743,1,1,"Ryerson, Miss. Susan Parker ""Suzette""",female,Summer,1,18.9385352,72.836345,C
+744,0,3,"McNamee, Mr. Neal",male,Rainy,2,18.9385352,72.836345,S
+745,1,3,"Stranden, Mr. Juho",male,Summer,3,18.9385352,72.836345,S
+746,0,1,"Crosby, Capt. Edward Gifford",male,Rainy,4,18.9385352,72.836345,S
+747,0,3,"Abbott, Mr. Rossmore Edward",male,Rainy,5,18.9385352,72.836345,S
+748,1,2,"Sinkkonen, Miss. Anna",female,Summer,6,18.9385352,72.836345,S
+749,0,1,"Marvin, Mr. Daniel Warner",male,Rainy,7,18.9385352,72.836345,S
+750,0,3,"Connaghton, Mr. Michael",male,Summer,8,18.9385352,72.836345,Q
+751,1,2,"Wells, Miss. Joan",female,Rainy,9,18.9385352,72.836345,S
+752,1,3,"Moor, Master. Meier",male,Rainy,10,18.9385352,72.836345,S
+753,0,3,"Vande Velde, Mr. Johannes Joseph",male,Summer,11,18.9385352,72.836345,S
+754,0,3,"Jonkoff, Mr. Lalio",male,Rainy,12,18.9385352,72.836345,S
+755,1,2,"Herman, Mrs. Samuel (Jane Laver)",female,Summer,13,18.9385352,72.836345,S
+756,1,2,"Hamalainen, Master. Viljo",male,Rainy,14,18.9385352,72.836345,S
+757,0,3,"Carlsson, Mr. August Sigfrid",male,Rainy,15,18.9385352,72.836345,S
+758,0,2,"Bailey, Mr. Percy Andrew",male,Rainy,16,18.9385352,72.836345,S
+759,0,3,"Theobald, Mr. Thomas Leonard",male,Summer,16,18.9385352,72.836345,S
+760,1,1,"Rothes, the Countess. of (Lucy Noel Martha Dyer-Edwards)",female,Summer,1,18.9385352,72.836345,S
+761,0,3,"Garfirth, Mr. John",male,Rainy,2,18.9385352,72.836345,S
+762,0,3,"Nirva, Mr. Iisakki Antino Aijo",male,Summer,3,18.9385352,72.836345,S
+763,1,3,"Barah, Mr. Hanna Assi",male,Summer,4,18.9385352,72.836345,C
+764,1,1,"Carter, Mrs. William Ernest (Lucile Polk)",female,Summer,5,18.9385352,72.836345,S
+765,0,11,"Eklund, Mr. Hans Linus",male,Rainy,6,18.9385352,72.836345,S
+766,1,12,"Hogeboom, Mrs. John C (Anna Andrews)",female,Winter,7,18.9385352,72.836345,S
+767,0,11,"Brewe, Dr. Arthur Jackson",male,Rainy,8,18.9385352,72.836345,C
+768,0,12,"Mangan, Miss. Mary",female,Rainy,9,18.9385352,72.836345,Q
+769,0,3,"Moran, Mr. Daniel J",male,Rainy,10,18.9385352,72.836345,Q
+770,0,4,"Gronnestad, Mr. Daniel Danielsen",male,Summer,11,18.9385352,72.836345,S
+771,0,5,"Lievens, Mr. Rene Aime",male,Rainy,12,18.9385352,72.836345,S
+772,0,6,"Jensen, Mr. Niels Peder",male,Summer,13,18.9385352,72.836345,S
+773,0,7,"Mack, Mrs. (Mary)",female,Summer,14,18.9385352,72.836345,S
+774,0,9,"Elias, Mr. Dibo",male,Rainy,15,18.9385352,72.836345,C
+775,1,8,"Hocking, Mrs. Elizabeth (Eliza Needs)",female,Rainy,16,18.9385352,72.836345,S
+776,0,7,"Myhrman, Mr. Pehr Fabian Oliver Malkolm",male,Rainy,16,18.9385352,72.836345,S
+777,0,6,"Tobin, Mr. Roger",male,Rainy,18,18.9385352,72.836345,Q
+778,1,5,"Emanuel, Miss. Virginia Ethel",female,Rainy,19,18.9385352,72.836345,S
+779,0,4,"Kilgannon, Mr. Thomas J",male,Rainy,20,18.9385352,72.836345,Q
+780,1,3,"Robert, Mrs. Edward Scott (Elisabeth Walton McMillan)",female,Summer,21,18.9385352,72.836345,S
+781,1,2,"Ayoub, Miss. Banoura",female,Rainy,22,18.9385352,72.836345,C
+782,1,3,"Dick, Mrs. Albert Adrian (Vera Gillespie)",female,Winter,23,18.9385352,72.836345,S
+783,0,4,"Long, Mr. Milton Clyde",male,Rainy,24,18.9385352,72.836345,S
+784,0,5,"Johnston, Mr. Andrew G",male,Rainy,1,18.9385352,72.836345,S
+785,0,6,"Ali, Mr. William",male,Rainy,2,18.9385352,72.836345,S
+786,0,7,"Harmer, Mr. Abraham (David Lishin)",male,Rainy,3,18.9385352,72.836345,S
+787,1,3,"Sjoblom, Miss. Anna Sofia",female,Summer,4,18.9385352,72.836345,S
+788,0,3,"Rice, Master. George Hugh",male,Rainy,5,18.9385352,72.836345,Q
+789,1,3,"Dean, Master. Bertram Vere",male,Rainy,6,18.9385352,72.836345,S
+790,0,1,"Guggenheim, Mr. Benjamin",male,Summer,7,18.9385352,72.836345,C
+791,0,3,"Keane, Mr. Andrew ""Andy""",male,Rainy,8,18.9385352,72.836345,Q
+792,0,2,"Gaskell, Mr. Alfred",male,Rainy,9,18.9385352,72.836345,S
+793,0,3,"Sage, Miss. Stella Anna",female,Rainy,10,18.9385352,72.836345,S
+794,0,1,"Hoyt, Mr. William Fisher",male,Rainy,11,18.9385352,72.836345,C
+795,0,3,"Dantcheff, Mr. Ristiu",male,Rainy,12,18.9385352,72.836345,S
+796,0,2,"Otter, Mr. Richard",male,Summer,13,18.9385352,72.836345,S
+797,1,1,"Leader, Dr. Alice (Farnham)",female,Summer,14,18.9385352,72.836345,S
+798,1,3,"Osman, Mrs. Mara",female,Summer,15,18.9385352,72.836345,S
+799,0,3,"Ibrahim Shawah, Mr. Yousseff",male,Rainy,16,18.9385352,72.836345,C
+800,0,3,"Van Impe, Mrs. Jean Baptiste (Rosalie Paula Govaert)",female,Rainy,16,18.9385352,72.836345,S
+801,0,2,"Ponesell, Mr. Martin",male,Summer,18,18.9385352,72.836345,S
+802,1,2,"Collyer, Mrs. Harvey (Charlotte Annie Tate)",female,Summer,19,18.9385352,72.836345,S
+803,1,2,"Carter, Master. William Thornton II",male,Winter,20,18.9385352,72.836345,S
+804,1,3,"Thomas, Master. Assad Alexander",male,Rainy,21,18.9385352,72.836345,C
+805,1,3,"Hedman, Mr. Oskar Arvid",male,Summer,22,18.9385352,72.836345,S
+806,0,3,"Johansson, Mr. Karl Johan",male,Summer,23,18.9385352,72.836345,S
+807,0,1,"Andrews, Mr. Thomas Jr",male,Summer,1,18.9385352,72.836345,S
+808,0,3,"Pettersson, Miss. Ellen Natalia",female,Rainy,2,18.9385352,72.836345,S
+809,0,2,"Meyer, Mr. August",male,Summer,3,18.9385352,72.836345,S
+810,1,1,"Chambers, Mrs. Norman Campbell (Bertha Griggs)",female,Summer,4,18.9385352,72.836345,S
+811,0,3,"Alexander, Mr. William",male,Rainy,5,18.9385352,72.836345,S
+812,0,3,"Lester, Mr. James",male,Summer,6,18.9385352,72.836345,S
+813,0,2,"Slemen, Mr. Richard James",male,Summer,7,18.9385352,72.836345,S
+814,0,3,"Andersson, Miss. Ebba Iris Alfrida",female,Rainy,8,18.9385352,72.836345,S
+815,0,3,"Tomlin, Mr. Ernest Portage",male,Rainy,9,18.9385352,72.836345,S
+816,0,1,"Fry, Mr. Richard",male,Rainy,10,18.9385352,72.836345,S
+817,0,3,"Heininen, Miss. Wendla Maria",female,Rainy,11,18.9385352,72.836345,S
+818,0,2,"Mallet, Mr. Albert",male,Summer,12,18.9385352,72.836345,C
+819,0,3,"Holm, Mr. John Fredrik Alexander",male,Summer,13,18.9385352,72.836345,S
+820,0,3,"Skoog, Master. Karl Thorsten",male,Rainy,14,18.9385352,72.836345,S
+821,1,3,"Hays, Mrs. Charles Melville (Clara Jennings Gregg)",female,Winter,15,18.9385352,72.836345,S
+822,1,3,"Lulic, Mr. Nikola",male,Summer,16,18.9385352,72.836345,S
+823,0,1,"Reuchlin, Jonkheer. John George",male,Summer,16,18.9385352,72.836345,S
+824,1,3,"Moor, Mrs. (Beila)",female,Summer,18,18.9385352,72.836345,S
+825,0,3,"Panula, Master. Urho Abraham",male,Rainy,19,18.9385352,72.836345,S
+826,0,3,"Flynn, Mr. John",male,Rainy,20,18.9385352,72.836345,Q
+827,0,3,"Lam, Mr. Len",male,Rainy,21,18.9385352,72.836345,S
+828,1,2,"Mallet, Master. Andre",male,Rainy,22,18.9385352,72.836345,C
+829,1,3,"McCormack, Mr. Thomas Joseph",male,Summer,23,18.9385352,72.836345,Q
+830,1,4,"Stone, Mrs. George Nelson (Martha Evelyn)",female,Summer,24,18.9385352,72.836345,
+831,1,3,"Yasbeck, Mrs. Antoni (Selini Alexander)",female,Rainy,25,18.9385352,72.836345,C
+832,1,2,"Richards, Master. George Sibley",male,Rainy,26,18.9385352,72.836345,S
+833,0,3,"Saad, Mr. Amin",male,Rainy,27,18.9385352,72.836345,C
+834,0,3,"Augustsson, Mr. Albert",male,Rainy,28,18.9385352,72.836345,S
+835,0,3,"Allum, Mr. Owen George",male,Rainy,30,18.9385352,72.836345,S
+836,1,1,"Compton, Miss. Sara Rebecca",female,Summer,1,18.9385352,72.836345,C
+837,0,3,"Pasic, Mr. Jakob",male,Rainy,1,18.9385352,72.836345,S
+838,0,3,"Sirota, Mr. Maurice",male,Rainy,2,18.9385352,72.836345,S
+839,1,3,"Chip, Mr. Chang",male,Summer,3,18.9385352,72.836345,S
+840,1,1,"Marechal, Mr. Pierre",male,Summer,4,18.9385352,72.836345,C
+841,0,3,"Alhomaki, Mr. Ilmari Rudolf",male,Rainy,5,18.9385352,72.836345,S
+842,0,2,"Mudd, Mr. Thomas Charles",male,Rainy,6,18.9385352,72.836345,S
+843,1,1,"Serepeca, Miss. Augusta",female,Summer,7,18.9385352,72.836345,C
+844,0,3,"Lemberopolous, Mr. Peter L",male,Summer,8,18.9385352,72.836345,C
+845,0,3,"Culumovic, Mr. Jeso",male,Rainy,9,18.9385352,72.836345,S
+846,0,3,"Abbing, Mr. Anthony",male,Summer,10,18.9385352,72.836345,S
+847,0,3,"Sage, Mr. Douglas Bullen",male,Rainy,11,18.9385352,72.836345,S
+848,0,3,"Markoff, Mr. Marin",male,Summer,12,18.9385352,72.836345,C
+849,0,1,"Harper, Rev. John",male,Rainy,13,18.9385352,72.836345,S
+850,1,11,"Goldenberg, Mrs. Samuel L (Edwiga Grabowska)",female,Summer,14,18.9385352,72.836345,C
+851,0,12,"Andersson, Master. Sigvard Harald Elias",male,Rainy,15,18.9385352,72.836345,S
+852,0,11,"Svensson, Mr. Johan",male,Rainy,16,18.9385352,72.836345,S
+853,0,12,"Boulos, Miss. Nourelain",female,Rainy,16,18.9385352,72.836345,C
+854,1,3,"Lines, Miss. Mary Conover",female,Summer,18,18.9385352,72.836345,S
+855,0,4,"Carter, Mrs. Ernest Courtenay (Lilian Hughes)",female,Summer,19,18.9385352,72.836345,S
+856,1,5,"Aks, Mrs. Sam (Leah Rosen)",female,Summer,20,18.9385352,72.836345,S
+857,1,6,"Wick, Mrs. George Dennick (Mary Hitchcock)",female,Summer,21,18.9385352,72.836345,S
+858,1,7,"Daly, Mr. Peter Denis ",male,Summer,22,18.9385352,72.836345,S
+859,1,9,"Baclini, Mrs. Solomon (Latifa Qurban)",female,Summer,23,18.9385352,72.836345,C
+860,0,8,"Razi, Mr. Raihed",male,Rainy,24,18.9385352,72.836345,C
+861,0,7,"Hansen, Mr. Claus Peter",male,Summer,25,18.9385352,72.836345,S
+862,0,6,"Giles, Mr. Frederick Edward",male,Rainy,26,18.9385352,72.836345,S
+863,1,5,"Swift, Mrs. Frederick Joel (Margaret Welles Barron)",female,Summer,27,18.9385352,72.836345,S
+864,0,4,"Sage, Miss. Dorothy Edith ""Dolly""",female,Rainy,28,18.9385352,72.836345,S
+865,0,3,"Gill, Mr. John William",male,Rainy,29,18.9385352,72.836345,S
+866,1,2,"Bystrom, Mrs. (Karolina)",female,Summer,31,18.9385352,72.836345,S
+867,1,3,"Duran y More, Miss. Asuncion",female,Summer,1,18.9385352,72.836345,C
+868,0,4,"Roebling, Mr. Washington Augustus II",male,Summer,2,18.9385352,72.836345,S
+869,0,5,"van Melkebeke, Mr. Philemon",male,Rainy,3,18.9385352,72.836345,S
+870,1,6,"Johnson, Master. Harold Theodor",male,Rainy,4,18.9385352,72.836345,S
+871,0,7,"Balkic, Mr. Cerin",male,Rainy,5,18.9385352,72.836345,S
+872,1,1,"Beckwith, Mrs. Richard Leonard (Sallie Monypeny)",female,Summer,6,18.9385352,72.836345,S
+873,0,1,"Carlsson, Mr. Frans Olof",male,Summer,7,18.9385352,72.836345,S
+874,0,3,"Vander Cruyssen, Mr. Victor",male,Summer,8,18.9385352,72.836345,S
+875,1,2,"Abelson, Mrs. Samuel (Hannah Wizosky)",female,Summer,9,18.9385352,72.836345,C
+876,1,3,"Najib, Miss. Adele Kiamie ""Jane""",female,Rainy,10,18.9385352,72.836345,C
+877,0,3,"Gustafsson, Mr. Alfred Ossian",male,Rainy,11,18.9385352,72.836345,S
+878,0,3,"Petroff, Mr. Nedelio",male,Rainy,12,18.9385352,72.836345,S
+879,0,3,"Laleff, Mr. Kristo",male,Rainy,13,18.9385352,72.836345,S
+880,1,7,"Potter, Mrs. Thomas Jr (Lily Alexenia Wilson)",female,Summer,14,18.9385352,72.836345,C
+881,1,2,"Shelley, Mrs. William (Imanita Parrish Hall)",female,Summer,15,18.9385352,72.836345,S
+882,0,3,"Markun, Mr. Johann",male,Summer,16,18.9385352,72.836345,S
+883,0,3,"Dahlberg, Miss. Gerda Ulrika",female,Rainy,16,18.9385352,72.836345,S
+884,0,2,"Banfield, Mr. Frederick James",male,Rainy,18,18.9385352,72.836345,S
+885,0,3,"Sutehall, Mr. Henry Jr",male,Rainy,19,18.9385352,72.836345,S
+886,0,3,"Rice, Mrs. William (Margaret Norton)",female,Summer,20,18.9385352,72.836345,Q
+887,0,2,"Montvila, Rev. Juozas",male,Rainy,21,18.9385352,72.836345,S
+888,1,1,"Graham, Miss. Margaret Edith",female,Summer,22,18.9385352,72.836345,S
+889,0,3,"Johnston, Miss. Catherine Helen ""Carrie""",female,Rainy,23,18.9385352,72.836345,S
+890,1,1,"Behr, Mr. Karl Howell",male,Summer,24,18.9385352,72.836345,C
+891,0,3,"Dooley, Mr. Patrick",male,Summer,25,18.9385352,72.836345,Q

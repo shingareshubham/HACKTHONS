@@ -1,0 +1,34 @@
+PassengerId,Survived,Months,Name,Sex,Seasone,Day,lat,long,weather
+929,0,3,"Braund, Mr. Owen Harris",male,Rainy,1,18.9385352,72.836334,Q
+930,1,1,"Cumings, Mrs. John Bradley (Florence Briggs Thayer)",female,Summer,2,17.9385352,72.836334,S
+931,1,3,"Heikkinen, Miss. Laina",female,Summer,3,18.9385652,72.836334,Q
+932,1,2,"Futrelle, Mrs. Jacques Heath (Lily May Peel)",female,Summer,4,19.9385352,72.836334,S
+933,0,3,"Allen, Mr. William Henry",male,Rainy,5,17.9385352,72.836334,S
+934,0,3,"Moran, Mr. James",male,Rainy,6,18.9385343,72.836334,S
+935,0,3,"McCarthy, Mr. Timothy J",male,Rainy,7,18.6385352,72.836334,Q
+936,0,3,"Palsson, Master. Gosta Leonard",male,Rainy,8,18.6315352,72.866334,S
+937,1,3,"Johnson, Mrs. Oscar W (Elisabeth Vilhelmina Berg)",female,Summer,9,18.9365352,73.836334,C
+938,1,4,"Nasser, Mrs. Nicholas (Adele Achem)",female,Summer,10,18.8385352,71.836334,S
+939,1,3,"Sandstrom, Miss. Marguerite Rut",female,Summer,11,16.9285352,72.836345,S
+940,1,5,"Bonnell, Miss. Elizabeth",female,Rainy,12,17.9385352,72.836345,S
+941,0,3,"Saundercock, Mr. William Henry",male,Rainy,13,18.9385352,72.836345,S
+942,0,3,"Andersson, Mr. Anders Johan",male,Rainy,14,13.9385352,72.836345,S
+943,0,3,"Vestrom, Miss. Hulda Amanda Adolfina",female,Rainy,15,18.9385362,72.836345,S
+944,1,6,"Hewlett, Mrs. (Mary D Kingcome) ",female,Summer,16,18.9385375,72.836345,C
+945,0,3,"Rice, Master. Eugene",male,Rainy,16,18.9385758,72.836345,Q
+946,1,7,"Williams, Mr. Charles Eugene",male,Summer,18,18.9385352,72.836323,C
+947,0,3,"Vander Planke, Mrs. Julius (Emelia Maria Vandemoortele)",female,Rainy,19,18.9385345,72.836345,S
+948,1,3,"Masselmani, Mrs. Fatima",female,Summer,20,18.9385352,72.836345,C
+949,0,7,"Fynney, Mr. Joseph J",male,Rainy,21,18.9385352,72.836345,C
+950,1,8,"Beesley, Mr. Lawrence",male,Summer,22,18.9385352,72.836345,S
+951,1,3,"McGowan, Miss. Anna ""Annie""",female,Summer,23,18.9385352,72.836345,S
+952,1,9,"Sloper, Mr. William Thompson",male,Summer,24,18.9385352,72.836345,C
+953,0,3,"Palsson, Miss. Torborg Danira",female,Rainy,25,18.9385352,72.836345,C
+954,1,3,"Asplund, Mrs. Carl Oscar (Selma Augusta Emilia Johansson)",female,Summer,26,18.9385352,72.836345,S
+955,0,3,"Emir, Mr. Farred Chehab",male,Rainy,27,18.9385352,72.836345,C
+956,0,12,"Fortune, Mr. Charles Alexander",male,Rainy,28,18.9385352,72.836345,C
+957,1,3,"O'Dwyer, Miss. Ellen ""Nellie""",female,Summer,1,18.9385352,72.836345,S
+958,0,3,"Todoroff, Mr. Lalio",male,Rainy,2,18.9385352,72.836345,C
+959,0,11,"Uruchurtu, Don. Manuel E",male,Rainy,3,18.9385352,72.836345,S
+960,1,2,"Spencer, Mrs. William Augustus (Marie Eugenie)",female,Summer,4,18.9385352,72.836345,S
+961,1,3,"Glynn, Miss. Mary Agatha",female,Summer,5,18.9385352,72.836345,S
